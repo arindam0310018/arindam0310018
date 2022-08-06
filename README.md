@@ -42,7 +42,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 # RECENT TWEETS:-
 
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/leeenglestone?ref_src=twsrc%5Etfw")
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
 
 
 
