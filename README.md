@@ -3,7 +3,7 @@
 ## WHOAMI:-
 
 | MY PIC |
-| ----------- |
+| <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
 
 I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
