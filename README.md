@@ -40,6 +40,10 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Azure Zurich User Group | Switzerland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
 
 
+# RECENT TWEETS:-
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/leeenglestone?ref_src=twsrc%5Etfw")
+
 
 
 <!--
