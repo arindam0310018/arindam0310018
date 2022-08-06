@@ -1,6 +1,6 @@
-### Hello All, My Name is __ARINDAM MITRA__ 👋
+# WHOAMI:-
 
-## WHOAMI:-
+Hello All, My Name is __ARINDAM MITRA__ 👋
 
 | <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
 | ----------- |
