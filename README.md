@@ -1,15 +1,35 @@
 ### Hello All, My Name is __ARINDAM MITRA__ 👋
 
-I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure.
+## WHOAMI:-
 
-## GET-IN-TOUCH/FOLLOW/SUBSCRIBE:-
+| MY PIC |
+| ----------- |
 
--  [Blog](https://www.linkedin.com/in/arindam-mitra-28981095/)
+I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
+
+## FOLLOW/SUBSCRIBE:-
+
+-  [Blog](https://dev.to/arindam0310018/)
 -  [LinkedIn](https://www.linkedin.com/in/arindam-mitra-28981095/) 
 -  [Twitter](https://twitter.com/arindam0310018/) 
 -  [Sessionize](https://sessionize.com/arindam0310018/)
 -  [GitHub](https://github.com/arindam0310018)
 -  [Facebook](https://www.facebook.com/arindam.mitra.790) 
+
+## GET-IN-TOUCH/CONNECT:-
+
+[Yahoomail](mailto:mail2arindam2003@yahoo.com)
+[Gmail](mailto:arindam0310018@gmail.com)
+
+## BLOGS I WROTE:-
+
+COMING UP!!!
+
+## MY STATS:-
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 <!--
