@@ -18,8 +18,8 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 ## GET-IN-TOUCH/CONNECT:-
 
-[Yahoomail](mailto:mail2arindam2003@yahoo.com)
-[Gmail](mailto:arindam0310018@gmail.com)
+-  [Yahoomail](mailto:mail2arindam2003@yahoo.com)
+-  [Gmail](mailto:arindam0310018@gmail.com)
 
 ## BLOGS I WROTE:-
 
