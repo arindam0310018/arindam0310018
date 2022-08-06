@@ -7,7 +7,7 @@ Hello All, My Name is __ARINDAM MITRA__ 👋
 
 I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
-## FOLLOW/SUBSCRIBE:-
+# FOLLOW/SUBSCRIBE:-
 
 -  [Blog](https://dev.to/arindam0310018/)
 -  [LinkedIn](https://www.linkedin.com/in/arindam-mitra-28981095/) 
@@ -16,18 +16,28 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 -  [GitHub](https://github.com/arindam0310018)
 -  [Facebook](https://www.facebook.com/arindam.mitra.790) 
 
-## GET-IN-TOUCH/CONNECT:-
+# GET-IN-TOUCH/CONNECT:-
 
 -  [Yahoomail](mailto:mail2arindam2003@yahoo.com)
 -  [Gmail](mailto:arindam0310018@gmail.com)
 
-## BLOGS I WROTE:-
-
-COMING UP!!!
-
-## MY STATS:-
+# GITHUB STATS:-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+
+# OVERALL STATS:-
+
+| Total No. of Blogs | Total No. of Speaker Sessions | Total No. of Azure Community Supported |
+| ----------- | ----------- | ----------- |
+| 15 | 5 | 3 |
+
+
+| Name of Azure Communities | Location | Speaker Topic |
+| ----------- | ----------- |
+| Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
+| Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
+| Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
+| Azure Zurich User Group | Switzerland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
 
 
 
