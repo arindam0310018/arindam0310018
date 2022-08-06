@@ -27,12 +27,12 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 # OVERALL STATS:-
 
-| Total No. of Blogs | Total No. of Speaker Sessions | Total No. of Azure Community Supported |
+| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
 | 15 | 5 | 3 |
 
 
-| Name of Azure Communities | Location | Speaker Topic |
+| __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- |
 | Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 | Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
