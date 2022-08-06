@@ -21,16 +21,11 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 -  [Yahoomail](mailto:mail2arindam2003@yahoo.com)
 -  [Gmail](mailto:arindam0310018@gmail.com)
 
-# GITHUB STATS:-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
-
 # OVERALL STATS:-
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
 | 15 | 5 | 3 |
-
 
 | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- |
@@ -38,7 +33,11 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
 | Azure Zurich User Group | Switzerland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
+| Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
 
+# GITHUB STATS:-
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
 
 # RECENT TWEETS:-
 
