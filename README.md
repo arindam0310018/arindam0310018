@@ -25,7 +25,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
-| 16 | 5 | 3 |
+| 16 | 6 | 4 |
 
 | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- |
@@ -34,6 +34,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
 | Azure Zurich User Group | Switzerland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
 | Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
+| Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
 
 # GITHUB STATS:-
 
