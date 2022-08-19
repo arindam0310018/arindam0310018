@@ -25,16 +25,17 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
-| 18 | 6 | 4 |
+| 18 | 7 | 5 |
 
-| __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
-| ----------- | ----------- | ----------- |
-| Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
-| Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
-| Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
-| Azure Zurich User Group | Switzerland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
-| Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
-| Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
+| __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
+| 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
+| 28.07.2022 | Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
+| 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland(Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
+| 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
+| 13.05.2022 | Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
+| 28.04.2022 | Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
 # GITHUB STATS:-
 
