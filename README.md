@@ -25,12 +25,14 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
-| 20 | 9 | 7 |
+| 20 | 11 | 7 |
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 12.09.2022 | Azure Back TO School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
+| 10.09.2022 | Azure Back TO School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
 | 07.09.2022 | Cloud Lunch And Learn | Ireland | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=e4ub3zFF_wE) |
-| 06.09.2022 | Azure Back TO School - 2022 | USA (Detroit and South Carolina) | [CAN WE DEPLOY AZ B2C USING TERRAFORM AND DEVOPS](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
+| 06.09.2022 | Azure Back TO School - 2022 | USA (Detroit and South Carolina) | [Can we Deploy Az B2C Using Terraform and Devops](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
 | 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
 | 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
 | 28.07.2022 | Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
