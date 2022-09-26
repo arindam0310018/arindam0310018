@@ -25,10 +25,11 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
-| 20 | 12 | 7 |
+| 20 | 13 | 7 |
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 23.09.2022 | Journey to the Cloud (9.0) | Ireland | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
 | 14.09.2022 | Cloud Lunch And Learn | Ireland | [Azure Container Registry with Aquasec Trivy and Azure DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
 | 12.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
 | 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
