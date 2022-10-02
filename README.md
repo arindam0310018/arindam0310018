@@ -25,12 +25,13 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ |
 | ----------- | ----------- | ----------- |
-| 20 | 13 | 7 |
+| 20 | 14 | 7 |
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
 | 23.09.2022 | Journey to the Cloud (9.0) | Ireland | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
-| 14.09.2022 | Cloud Lunch And Learn | Ireland | [Azure Container Registry with Aquasec Trivy and Azure DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
+| 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
 | 12.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
 | 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
 | 07.09.2022 | Cloud Lunch And Learn | Ireland | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=e4ub3zFF_wE) |
