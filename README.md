@@ -7,6 +7,13 @@ Hello All, My Name is __ARINDAM MITRA__ 👋
 
 I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
+<h1 align="center">
+  <p align="center">
+    <a href="https://visitor-badge.glitch.me/badge?page_id=arindam031018.arindam0310018">
+      <img alt="visitors" title="GitHub Profile Visits" src="https://visitor-badge.glitch.me/badge?page_id=arindam0310018.arindam0310018"/></a>
+  </p>
+</h1>
+
 # FOLLOW/SUBSCRIBE:-
 
 -  [Blog](https://dev.to/arindam0310018/)
