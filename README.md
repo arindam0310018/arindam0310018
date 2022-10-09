@@ -23,9 +23,16 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 # OVERALL STATS:-
 
-| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | CONTRIBUTION TO MICROSOFT DOCUMENTATION | ISSUES RAISED WITH MICROSOFT |
+| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __CONTRIBUTION TO MICROSOFT DOCUMENTATION__ | __ISSUES RAISED WITH MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 20 | 14 | 7 | 1 | 2 |
+| 20 | 4 | 14 | 7 | 1 | 2 |
+
+| __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
+| ----------- | ----------- |
+| [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 2 |
+| [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
+| [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
+| [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 4 |
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
