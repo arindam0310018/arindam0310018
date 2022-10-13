@@ -24,9 +24,9 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 # OVERALL STATS:-
 
-| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __CONTRIBUTION TO MICROSOFT DOCUMENTATION__ | __ISSUES RAISED WITH MICROSOFT__ |
+| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 20 | 4 | 14 | 7 | 3 | 3 |
+| 20 | 4 | 14 | 7 | 2 | 4 |
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
