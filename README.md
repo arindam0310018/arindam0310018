@@ -30,7 +30,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
-| [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 2 |
+| [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 3 |
 | [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 4 |
