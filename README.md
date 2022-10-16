@@ -40,6 +40,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Service Principal Credential Reset does not appear in Azure Portal App Registration GUI #23566 | https://github.com/Azure/azure-cli/issues/23566 | __CLOSED__ |
 | ERROR: TF400813: The user 'aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource. #24108 | https://github.com/Azure/azure-cli/issues/24108 | __OPEN__ |
 | Multiple AAD Group Using Same Name #24162 | https://github.com/Azure/azure-cli/issues/24162 | __OPEN__ |
+| Private Endpoint for Azure Managed Grafana #99900 | https://github.com/MicrosoftDocs/azure-docs/issues/99900 | __CLOSED__ |
 | Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __OPEN__ |
 | Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __OPEN__ |
 | Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __OPEN__ |
