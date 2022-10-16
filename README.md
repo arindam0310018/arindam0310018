@@ -29,13 +29,13 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | 22 | 5 | 14 | 7 | 2 | 5 |
 
 
-| __PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
+| __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED__ |
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __OPEN__ |
 
 
-| __ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
+| __MICROSOFT ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Service Principal Credential Reset does not appear in Azure Portal App Registration GUI #23566 | https://github.com/Azure/azure-cli/issues/23566 | __CLOSED__ |
 | ERROR: TF400813: The user 'aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource. #24108 | https://github.com/Azure/azure-cli/issues/24108 | __OPEN__ |
