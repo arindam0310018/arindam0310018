@@ -28,6 +28,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 22 | 5 | 14 | 7 | 2 | 5 |
 
+
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 3 |
@@ -35,6 +36,18 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 4 |
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 2 |
+
+
+| __PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
+| ----------- | ----------- | ----------- |
+| Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | MERGED |
+| Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | OPEN |
+
+
+| __ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
+| ----------- | ----------- | ----------- |
+|  |  |  |
+
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
@@ -53,9 +66,11 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | 13.05.2022 | Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | 28.04.2022 | Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
+
 # GITHUB STATS:-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+
 
 # RECENT TWEETS:-
 
