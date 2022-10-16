@@ -42,7 +42,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Multiple AAD Group Using Same Name #24162 | https://github.com/Azure/azure-cli/issues/24162 | __OPEN__ |
 | Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __OPEN__ |
 | Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __OPEN__ |
-| Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | OPEN |
+| Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __OPEN__ |
 
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
