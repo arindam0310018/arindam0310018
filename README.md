@@ -29,6 +29,21 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | 22 | 5 | 14 | 7 | 2 | 5 |
 
 
+| __PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
+| ----------- | ----------- | ----------- |
+| Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED__ |
+| Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __OPEN__ |
+
+
+| __ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
+| ----------- | ----------- | ----------- |
+| Service Principal Credential Reset does not appear in Azure Portal App Registration GUI #23566 | https://github.com/Azure/azure-cli/issues/23566 | __CLOSED__ |
+| ERROR: TF400813: The user 'aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource. #24108 | https://github.com/Azure/azure-cli/issues/24108 | __OPEN__ |
+| Multiple AAD Group Using Same Name #24162 | https://github.com/Azure/azure-cli/issues/24162 | __OPEN__ |
+| Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __OPEN__ |
+| Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __OPEN__ |
+
+
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 3 |
@@ -36,17 +51,6 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 4 |
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 2 |
-
-
-| __PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
-| ----------- | ----------- | ----------- |
-| Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | MERGED |
-| Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | OPEN |
-
-
-| __ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
-| ----------- | ----------- | ----------- |
-|  |  |  |
 
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
