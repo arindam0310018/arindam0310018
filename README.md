@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 23 | 5 | 14 | 7 | 2 | 7 |
+| 23 | 5 | 14 | 7 | 2 | 8 |
 
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
@@ -44,7 +44,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __OPEN__ |
 | Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __OPEN__ |
 | Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __OPEN__ |
-
+| REST API Reference missing: SFTP Support for Azure Blob Storage | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __OPEN__ |
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
