@@ -47,7 +47,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | REST API Reference missing: SFTP Support for Azure Blob Storage | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __OPEN__ |
 
 
-| __MICROSOFT PRODUCT FEEDBACK CATEGORY__ | __MICROSOFT PRODUCT FEEDBACK TITLE__ | __LINK TO MICROSOFT__ | __STATUS__ |
+| __MS PRODUCT FEEDBACK CATEGORY__ | __MS PRODUCT FEEDBACK TITLE__ | __LINK__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
 | Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | __NEW__ |
 
