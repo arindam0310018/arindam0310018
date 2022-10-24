@@ -49,7 +49,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __MICROSOFT PRODUCT FEEDBACK CATEGORY__ | __MICROSOFT PRODUCT FEEDBACK TITLE__ | __LINK TO MICROSOFT__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
-| Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | New |
+| Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | __NEW__ |
 
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
