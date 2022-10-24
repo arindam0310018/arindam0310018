@@ -35,7 +35,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __OPEN__ |
 
 
-| __MICROSOFT ISSUE TOPIC__ | __LINK TO PULL REQUEST__ | __STATUS__ |
+| __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Service Principal Credential Reset does not appear in Azure Portal App Registration GUI #23566 | https://github.com/Azure/azure-cli/issues/23566 | __CLOSED__ |
 | ERROR: TF400813: The user 'aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource. #24108 | https://github.com/Azure/azure-cli/issues/24108 | __OPEN__ |
