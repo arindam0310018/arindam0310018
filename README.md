@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 23 | 5 | 14 | 7 | 2 | 9 | 1 |
+| 24 | 5 | 14 | 7 | 2 | 9 | 1 |
 
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
