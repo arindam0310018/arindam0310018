@@ -31,8 +31,8 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
-| Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED__ |
-| Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __OPEN__ |
+| Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED & CLOSED__ |
+| Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __MERGED & CLOSED__ |
 
 
 | __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
