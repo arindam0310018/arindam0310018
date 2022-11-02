@@ -33,7 +33,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | ----------- | ----------- | ----------- |
 | Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED & CLOSED__ |
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __MERGED & CLOSED__ |
-| MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __OPEN__ |
+| MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __CLOSED__ |
 
 | __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -43,7 +43,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Private Endpoint for Azure Managed Grafana #99900 | https://github.com/MicrosoftDocs/azure-docs/issues/99900 | __CLOSED__ |
 | Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __CLOSED__ |
 | Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __OPEN__ |
-| Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __OPEN__ |
+| Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __CLOSED__ |
 | REST API Reference missing: SFTP Support for Azure Blob Storage | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __CLOSED__ |
 | Assign a Key Vault access policy - Update Screenshots in the Documentation | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __OPEN__ |
 
