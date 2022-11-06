@@ -24,7 +24,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 # OVERALL STATS:-
 
-| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTED TO ISSUES RAISED WITH MICROSOFT__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
+| __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 25 | 5 | 14 | 7 | 3 | 9 | 1 | 1 |
 
@@ -46,7 +46,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | REST API Reference missing: SFTP Support for Azure Blob Storage | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __CLOSED__ |
 | Assign a Key Vault access policy - Update Screenshots in the Documentation | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __OPEN__ |
 
-| __CONTRIBUTION TO MICROSOFT ISSUE__ | __LINK TO ISSUE__ | __STATUS__ |
+| __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Invalid value was provided for Key Vault 'accessPolicies' | https://github.com/Azure/azure-cli/issues/9763 | __CLOSED__ |
 
