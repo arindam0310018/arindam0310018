@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 25 | 5 | 14 | 7 | 3 | 9 | 1 | 1 |
+| 26 | 5 | 14 | 7 | 3 | 9 | 1 | 1 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -62,7 +62,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 4 |
 | [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
-| [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 2 |
+| [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
