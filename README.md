@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 28 | 5 | 14 | 7 | 3 | 9 | 1 | 2 |
+| 28 | 5 | 14 | 7 | 3 | 9 | 1 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -54,7 +54,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | ----------- | ----------- | ----------- | ----------- |
 | Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | __NEW__ |
 | Azure Static WebApp | Custom Name included in the URL of Static WebApp Similar to Azure WebApp  | https://feedback.azure.com/d365community/idea/a8dab502-1a32-ec11-a819-000d3ae2b5ca | __NEW__ |
-
+| Azure Static WebApp | Single Private DNS Zone for Azure Static WebApp | https://feedback.azure.com/d365community/idea/0840a4d4-7667-ed11-a81b-000d3adb7ffd | __NEW__ |
 
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
