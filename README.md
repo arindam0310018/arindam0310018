@@ -43,8 +43,8 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Update Private Endpoint limitation of Azure Managed Grafana #99902 | https://github.com/MicrosoftDocs/azure-docs/issues/99902 | __CLOSED__ |
 | Az Active Directory Admin Group Name for Azure Database for PostgreSQL single server supports up to 63 Characters #100012 | https://github.com/MicrosoftDocs/azure-docs/issues/100012 | __CLOSED__ |
 | Limitations Not Listed in the Documentation: Connect your GitHub repositories to Microsoft Defender for Cloud #100017 | https://github.com/MicrosoftDocs/azure-docs/issues/100017 | __CLOSED__ |
-| REST API Reference missing: SFTP Support for Azure Blob Storage | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __CLOSED__ |
-| Assign a Key Vault access policy - Update Screenshots in the Documentation | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __CLOSED__ |
+| REST API Reference missing: SFTP Support for Azure Blob Storage #100406 | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __CLOSED__ |
+| Assign a Key Vault access policy - Update Screenshots in the Documentation #100407 | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __CLOSED__ |
 | Private DNS Zone of Azure Static WebApp #102010 | https://github.com/MicrosoftDocs/azure-docs/issues/102010 | __OPEN__ |
 
 | __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
