@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 29 | 7 | 14 | 7 | 3 | 10 | 1 | 3 |
+| 29 | 7 | 15 | 7 | 3 | 10 | 1 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -71,6 +71,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://festivetechcalendar.com/) |
 | 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
 | 23.09.2022 | Journey to the Cloud (9.0) | Ireland | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
 | 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
