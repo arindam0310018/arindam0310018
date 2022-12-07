@@ -71,7 +71,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://festivetechcalendar.com/) |
+| 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
 | 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
 | 23.09.2022 | Journey to the Cloud (9.0) | Ireland | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
 | 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
