@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 29 | 7 | 15 | 8 | 3 | 10 | 1 | 3 |
+| 29 | 7 | 16 | 8 | 3 | 10 | 1 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -73,7 +73,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | ----------- | ----------- | ----------- | ----------- |
 | 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
 | 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
-| 23.09.2022 | Journey to the Cloud (9.0) | Ireland | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
+| 23.09.2022 | Journey to the Cloud (9.0) | Ireland and USA | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
 | 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
 | 12.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
 | 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
@@ -81,11 +81,11 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | 06.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Can we Deploy Az B2C Using Terraform and Devops](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
 | 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
 | 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
-| 28.07.2022 | Journey to the Cloud (7.0) | Ireland | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
+| 28.07.2022 | Journey to the Cloud (7.0) | Ireland and USA | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
 | 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland(Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
 | 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
-| 13.05.2022 | Journey to the Cloud (5.0) | Ireland | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
-| 28.04.2022 | Journey to the Cloud (4.0) | Ireland | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
+| 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
+| 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
 
 # GITHUB STATS:-
