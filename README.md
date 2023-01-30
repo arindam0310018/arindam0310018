@@ -51,6 +51,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | ----------- | ----------- | ----------- |
 | Invalid value was provided for Key Vault 'accessPolicies' | https://github.com/Azure/azure-cli/issues/9763 | __CLOSED__ |
 | Please provide the JSON examples for --service-endpoint-configuration | https://github.com/Azure/azure-cli-extensions/issues/1495 | __CLOSED__ |
+| Create service endpoint connections to Docker registry & ACR | https://github.com/Azure/azure-devops-cli-extension/issues/706 | __CLOSED__ |
 
 | __MS PRODUCT FEEDBACK CATEGORY__ | __MS PRODUCT FEEDBACK TITLE__ | __LINK__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
