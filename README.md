@@ -46,6 +46,8 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | REST API Reference missing: SFTP Support for Azure Blob Storage #100406 | https://github.com/MicrosoftDocs/azure-docs/issues/100406 | __CLOSED__ |
 | Assign a Key Vault access policy - Update Screenshots in the Documentation #100407 | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __CLOSED__ |
 | Private DNS Zone of Azure Static WebApp #102010 | https://github.com/MicrosoftDocs/azure-docs/issues/102010 | __OPEN__ |
+| Sample JSON Format Configuration file for All type of Service Connection #13074 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13074 | __OPEN__ |
+
 
 | __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
