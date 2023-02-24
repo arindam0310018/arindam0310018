@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 31 | 7 | 16 | 8 | 3 | 11 | 3 | 3 |
+| 32 | 7 | 16 | 8 | 3 | 11 | 3 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -54,6 +54,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 | Invalid value was provided for Key Vault 'accessPolicies' | https://github.com/Azure/azure-cli/issues/9763 | __CLOSED__ |
 | Please provide the JSON examples for --service-endpoint-configuration | https://github.com/Azure/azure-cli-extensions/issues/1495 | __CLOSED__ |
 | Create service endpoint connections to Docker registry & ACR | https://github.com/Azure/azure-devops-cli-extension/issues/706 | __CLOSED__ |
+
 
 | __MS PRODUCT FEEDBACK CATEGORY__ | __MS PRODUCT FEEDBACK TITLE__ | __LINK__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
