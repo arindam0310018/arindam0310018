@@ -26,13 +26,14 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 34 | 8 | 18 | 10 | 3 | 11 | 3 | 3 |
+| 34 | 8 | 18 | 10 | 4 | 11 | 3 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED & CLOSED__ |
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __MERGED & CLOSED__ |
 | MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __CLOSED__ |
+| Microsoft.Dashboard/grafana #275 | https://github.com/Azure/terraform-provider-azapi/pull/275 | __OPEN__ |
 
 | __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
