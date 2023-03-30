@@ -26,7 +26,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 34 | 7 | 17 | 9 | 3 | 11 | 3 | 3 |
+| 34 | 7 | 18 | 10 | 3 | 11 | 3 | 3 |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -76,6 +76,7 @@ I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focu
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 30.03.2023 | Virtual Boston Azure | USA (Boston) | [Map Azure DevOps Runtime Variables to Terraform Input Variables](https://www.youtube.com/watch?v=-ssTKjHVP_Q) |
 | 15.03.2023 | Azure Spring Clean 2023 | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.azurespringclean.com/) |
 | 15.12.2022 | Journey to the Cloud - Wrap up 2022 | Ireland and USA | [Az Managed Grafana with Terraform AZAPI & DevOps](https://www.youtube.com/watch?v=V8b4hg-pZ7s) |
 | 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
