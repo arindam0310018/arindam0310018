@@ -9,7 +9,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 # AWARDS:-
 
-| __Microsoft MVP: Developer Technologies__ |
+| __Microsoft MVP in Developer Technologies__ |
 | ----------- |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
 
@@ -41,7 +41,44 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 | __TOTAL NO. OF PUBLISHED BLOGS__ | __TOTAL NO. OF PUBLISHED BLOG SERIES__ | __TOTAL NO. OF SPEAKER SESSIONS__ | __TOTAL NO. OF AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MICROSOFT GITHUB__ | __ISSUES RAISED WITH MICROSOFT__ | __CONTRIBUTION TO MICROSOFT ISSUES__ | __PRODUCT FEEDBACK TO MICROSOFT__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 34 | 8 | 18 | 10 | 4 | 11 | 3 | 3 |
+| 34 | 8 | 19 | 10 | 4 | 11 | 3 | 3 |
+
+# BLOGS AND BLOG SERIES STATS:-
+
+| __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
+| ----------- | ----------- |
+| [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 4 |
+| [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 2 |
+| [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
+| [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 8 |
+| [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
+| [SECURITY](https://dev.to/arindam0310018/series/22367) | 1 |
+| [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 5 |
+| [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
+
+# SPEAKER SESSION STATS:-
+
+| __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 05.04.2023 | Cloud Lunch and Learn | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.youtube.com/watch?v=pgntkqvm0cY&t=2395s) |
+| 30.03.2023 | Virtual Boston Azure | USA (Boston) | [Map Azure DevOps Runtime Variables to Terraform Input Variables](https://www.youtube.com/watch?v=-ssTKjHVP_Q) |
+| 15.03.2023 | Azure Spring Clean 2023 | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.azurespringclean.com/) |
+| 15.12.2022 | Journey to the Cloud - Wrap up 2022 | Ireland and USA | [Az Managed Grafana with Terraform AZAPI & DevOps](https://www.youtube.com/watch?v=V8b4hg-pZ7s) |
+| 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
+| 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
+| 23.09.2022 | Journey to the Cloud (9.0) | Ireland and USA | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
+| 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
+| 12.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
+| 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
+| 07.09.2022 | Cloud Lunch And Learn | Ireland | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=e4ub3zFF_wE) |
+| 06.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Can we Deploy Az B2C Using Terraform and Devops](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
+| 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
+| 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
+| 28.07.2022 | Journey to the Cloud (7.0) | Ireland and USA | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
+| 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland(Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
+| 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
+| 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
+| 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -77,40 +114,6 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | __NEW__ |
 | Azure Static WebApp | Custom Name included in the URL of Static WebApp Similar to Azure WebApp  | https://feedback.azure.com/d365community/idea/a8dab502-1a32-ec11-a819-000d3ae2b5ca | __NEW__ |
 | Azure Static WebApp | Single Private DNS Zone for Azure Static WebApp | https://feedback.azure.com/d365community/idea/0840a4d4-7667-ed11-a81b-000d3adb7ffd | __NEW__ |
-
-
-| __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
-| ----------- | ----------- |
-| [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 4 |
-| [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 2 |
-| [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
-| [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 8 |
-| [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
-| [SECURITY](https://dev.to/arindam0310018/series/22367) | 1 |
-| [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 5 |
-| [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
-
-
-| __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
-| ----------- | ----------- | ----------- | ----------- |
-| 30.03.2023 | Virtual Boston Azure | USA (Boston) | [Map Azure DevOps Runtime Variables to Terraform Input Variables](https://www.youtube.com/watch?v=-ssTKjHVP_Q) |
-| 15.03.2023 | Azure Spring Clean 2023 | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.azurespringclean.com/) |
-| 15.12.2022 | Journey to the Cloud - Wrap up 2022 | Ireland and USA | [Az Managed Grafana with Terraform AZAPI & DevOps](https://www.youtube.com/watch?v=V8b4hg-pZ7s) |
-| 07.12.2022 | Festive Tech Calendar 2022 | United Kingdom (UK) | [Ops In DevOps](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
-| 28.09.2022 | Cloud Lunch And Learn | Ireland | [Dynamic Deployment of SonarQube in Azure Container Instance Using Azure DevOps](https://www.youtube.com/watch?v=0D5gURnxdz8&t=165s) |
-| 23.09.2022 | Journey to the Cloud (9.0) | Ireland and USA | [Ops In DevOps](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
-| 14.09.2022 | Cloud Lunch And Learn | Ireland | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=0hFXX3k2YnM) |
-| 12.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Terraform Plan in DevOps GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
-| 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
-| 07.09.2022 | Cloud Lunch And Learn | Ireland | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=e4ub3zFF_wE) |
-| 06.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Can we Deploy Az B2C Using Terraform and Devops](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
-| 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
-| 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
-| 28.07.2022 | Journey to the Cloud (7.0) | Ireland and USA | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
-| 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland(Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
-| 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
-| 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
-| 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
 <!--
 **arindam0310018/arindam0310018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
