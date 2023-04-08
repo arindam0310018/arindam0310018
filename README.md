@@ -39,13 +39,13 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
-# OVERALL MICROSOFT AZURE STATS:-
+# OVERALL STATS ON MICROSOFT:-
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 34 | 8 | 19 | 10 | 4 | 11 | 3 | 3 |
 
-# BLOG SERIES STATS:-
+# OVERALL STATS ON BLOG SERIES:-
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
@@ -58,7 +58,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 5 |
 | [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
-# SPEAKER SESSION STATS:-
+# OVERALL STATS ON SPEAKER SESSIONS:-
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
