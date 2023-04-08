@@ -82,12 +82,16 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
+# OVERALL STATS ON PULL REQUESTS:-
+
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
 | Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED & CLOSED__ |
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __MERGED & CLOSED__ |
 | MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __CLOSED__ |
 | Microsoft.Dashboard/grafana #275 | https://github.com/Azure/terraform-provider-azapi/pull/275 | __OPEN__ |
+
+# OVERALL STATS ON RAISED ISSUES:-
 
 | __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -103,6 +107,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | Private DNS Zone of Azure Static WebApp #102010 | https://github.com/MicrosoftDocs/azure-docs/issues/102010 | __OPEN__ |
 | Sample JSON Format Configuration file for All type of Service Connection #13074 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13074 | __OPEN__ |
 
+# OVERALL STATS ON CONTRIBUTION TO ISSUES:-
 
 | __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -110,6 +115,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | Please provide the JSON examples for --service-endpoint-configuration | https://github.com/Azure/azure-cli-extensions/issues/1495 | __CLOSED__ |
 | Create service endpoint connections to Docker registry & ACR | https://github.com/Azure/azure-devops-cli-extension/issues/706 | __CLOSED__ |
 
+# OVERALL STATS ON PRODUCT FEEDBACK:-
 
 | __MS PRODUCT FEEDBACK CATEGORY__ | __MS PRODUCT FEEDBACK TITLE__ | __LINK__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
