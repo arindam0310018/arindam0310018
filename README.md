@@ -5,8 +5,13 @@ Hello All, My Name is __ARINDAM MITRA__ 👋
 | <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
 | ----------- |
 
-I am Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
+I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
+# AWARDS:-
+
+| __Microsoft MVP (Most Valuable Professional) in Developer Technologies__ |
+| ----------- |
+| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230732984-e53a6feb-c85d-41b7-a4d5-8e8a4a153e49.jpg) |
 
 # FOLLOW/SUBSCRIBE:-
 
