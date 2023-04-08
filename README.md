@@ -7,7 +7,7 @@ Hello All, My Name is __ARINDAM MITRA__ 👋
 
 I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
-![](https://komarev.com/ghpvc/?username=arindam0310018)
+![](https://komarev.com/ghpvc/?username=arindam0310018&style=for-the-badge&color=green)
 
 # AWARDS:-
 
