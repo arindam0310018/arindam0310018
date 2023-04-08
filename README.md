@@ -11,7 +11,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 | __Microsoft MVP: Developer Technologies__ |
 | ----------- |
-| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230732984-e53a6feb-c85d-41b7-a4d5-8e8a4a153e49.jpg) |
+| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733289-0ae56340-af6e-49e8-876e-d881f7dc7b1f.jpg) |
 
 # FOLLOW/SUBSCRIBE:-
 
