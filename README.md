@@ -9,7 +9,7 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 # AWARDS:-
 
-| __Microsoft MVP (Most Valuable Professional) in Developer Technologies__ |
+| __Microsoft MVP: Developer Technologies__ |
 | ----------- |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230732984-e53a6feb-c85d-41b7-a4d5-8e8a4a153e49.jpg) |
 
@@ -26,6 +26,16 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 -  [Yahoomail](mailto:mail2arindam2003@yahoo.com)
 -  [Gmail](mailto:arindam0310018@gmail.com)
+
+# GITHUB STATS:-
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+
+# RECENT TWEETS:-
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 # OVERALL STATS:-
 
@@ -101,19 +111,6 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 | 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
 | 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
-
-
-# GITHUB STATS:-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
-
-
-# RECENT TWEETS:-
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
 
 <!--
 **arindam0310018/arindam0310018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
