@@ -39,9 +39,9 @@ I am Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azur
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
-# OVERALL STATS:-
+# OVERALL MICROSOFT AZURE STATS:-
 
-| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __PULL REQUEST TO MS GITHUB__ | __ISSUES RAISED WITH MS__ | __CONTRIBUTION TO MS ISSUES__ | __PRODUCT FEEDBACK TO MS__ |
+| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 34 | 8 | 19 | 10 | 4 | 11 | 3 | 3 |
 
