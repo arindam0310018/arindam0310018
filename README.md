@@ -43,7 +43,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 34 | 8 | 19 | 10 | 4 | 11 | 3 | 3 |
+| 35 | 8 | 19 | 10 | 4 | 11 | 3 | 3 |
 
 # OVERALL STATS ON BLOG SERIES:-
 
@@ -52,7 +52,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 4 |
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 2 |
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
-| [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 8 |
+| [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 9 |
 | [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
 | [SECURITY](https://dev.to/arindam0310018/series/22367) | 1 |
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 5 |
