@@ -37,7 +37,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=arindam0310018)](https://github.com/gazf/github-readme-twitter)
 
 # OVERALL STATS ON MICROSOFT:-
 
