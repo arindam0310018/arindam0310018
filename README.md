@@ -41,7 +41,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 35 | 8 | 20 | 10 | 4 | 11 | 3 | 3 |
+| 35 | 8 | 20 | 10 | 4 | 12 | 3 | 3 |
 
 # OVERALL STATS ON BLOG SERIES:-
 
@@ -105,6 +105,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Assign a Key Vault access policy - Update Screenshots in the Documentation #100407 | https://github.com/MicrosoftDocs/azure-docs/issues/100407 | __CLOSED__ |
 | Private DNS Zone of Azure Static WebApp #102010 | https://github.com/MicrosoftDocs/azure-docs/issues/102010 | __OPEN__ |
 | Sample JSON Format Configuration file for All type of Service Connection #13074 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13074 | __OPEN__ |
+| Azure DevOps Pipelines Common service connection types does not include ACR #13251 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13251 | __OPEN__ |
 
 # OVERALL STATS ON CONTRIBUTION TO ISSUES:-
 
