@@ -29,6 +29,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
   <a href="https://sessionize.com/arindam0310018/">
     <img src="https://img.shields.io/badge/-Sessionize-green?style=flat-square&logo=Youtube&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/arindam.mitra.790">
+    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Youtube&logoColor=white"/>
+  </a>
 
 <!--
 -  [Blog](https://dev.to/arindam0310018/)
