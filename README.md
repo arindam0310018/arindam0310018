@@ -17,12 +17,28 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 # FOLLOW/SUBSCRIBE:-
 
+  <a href="https://dev.to/@arindam0310018">
+    <img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/arindam-mitra-28981095/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/arindam0310018">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://sessionize.com/arindam0310018/">
+    <img src="https://img.shields.io/badge/-Sessionize-green?style=flat-square&logo=Youtube&logoColor=white"/>
+  </a>
+
+<!--
 -  [Blog](https://dev.to/arindam0310018/)
 -  [LinkedIn](https://www.linkedin.com/in/arindam-mitra-28981095/) 
 -  [Twitter](https://twitter.com/arindam0310018/) 
 -  [Sessionize](https://sessionize.com/arindam0310018/)
 -  [GitHub](https://github.com/arindam0310018)
 -  [Facebook](https://www.facebook.com/arindam.mitra.790) 
+
+-->
 
 # GET-IN-TOUCH/CONNECT:-
 
