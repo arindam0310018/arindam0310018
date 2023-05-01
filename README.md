@@ -60,7 +60,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 35 | 8 | 20 | 10 | 4 | 13 | 3 | 3 |
+| 36 | 8 | 21 | 10 | 4 | 13 | 3 | 3 |
 
 # OVERALL STATS ON BLOG SERIES:-
 
@@ -71,7 +71,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 9 |
 | [PUBLISH-TF-PLAN-DEVOPS-GUI](https://dev.to/arindam0310018/series/19410) | 2 |
-| [SECURITY](https://dev.to/arindam0310018/series/22367) | 1 |
+| [SECURITY](https://dev.to/arindam0310018/series/22367) | 2 |
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 5 |
 | [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
@@ -79,6 +79,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 28.04.2023 | Journey to the Cloud (Microsoft Ireland Event) | Ireland | [Microsoft Ireland Event - Azure and Security](https://www.youtube.com/watch?v=uekcRlcC1Pw) |
 | 15.04.2023 | Microsoft Azure Pakistan Community | Pakistan | [Automate pull request & associate work-items using Az Devops](https://www.youtube.com/watch?v=acyE2gWiLdI&t=1853s) |
 | 05.04.2023 | Cloud Lunch and Learn | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.youtube.com/watch?v=pgntkqvm0cY&t=2395s) |
 | 30.03.2023 | Virtual Boston Azure | USA (Boston) | [Map Azure DevOps Runtime Variables to Terraform Input Variables](https://www.youtube.com/watch?v=-ssTKjHVP_Q) |
