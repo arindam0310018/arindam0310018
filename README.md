@@ -60,7 +60,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 36 | 8 | 24 | 11 | 4 | 13 | 3 | 3 |
+| 37 | 8 | 24 | 11 | 4 | 13 | 3 | 3 |
 
 # OVERALL STATS ON BLOG SERIES:-
 
@@ -81,7 +81,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | ----------- | ----------- | ----------- | ----------- |
 | 31.05.2023 | Cloud Lunch And Learn | Ireland | __IaC - Blueprints__ (Recording Coming Soon!!!) |
 | 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure Event) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
-| 11.05.2023 | Azure Bootcamp 2023 | Switzerland(Bern) | [Advanced-Analytics-with-Devops-Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
+| 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Advanced Analytics with Azure Devops Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
 | 28.04.2023 | Journey to the Cloud (Microsoft Ireland Event) | Ireland | [Microsoft Ireland Event - Azure and Security](https://www.youtube.com/watch?v=uekcRlcC1Pw) |
 | 15.04.2023 | Microsoft Azure Pakistan Community | Pakistan | [Automate pull request & associate work-items using Az Devops](https://www.youtube.com/watch?v=acyE2gWiLdI&t=1853s) |
 | 05.04.2023 | Cloud Lunch and Learn | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.youtube.com/watch?v=pgntkqvm0cY&t=2395s) |
