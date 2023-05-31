@@ -79,6 +79,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 31.05.2023 | Cloud Lunch And Learn | Ireland | __IaC - Blueprints__ (Recording Coming Soon!!!) |
+| 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure Event) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
+| 11.05.2023 | Azure Bootcamp 2023 | Switzerland(Bern) | [Advanced-Analytics-with-Devops-Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
 | 28.04.2023 | Journey to the Cloud (Microsoft Ireland Event) | Ireland | [Microsoft Ireland Event - Azure and Security](https://www.youtube.com/watch?v=uekcRlcC1Pw) |
 | 15.04.2023 | Microsoft Azure Pakistan Community | Pakistan | [Automate pull request & associate work-items using Az Devops](https://www.youtube.com/watch?v=acyE2gWiLdI&t=1853s) |
 | 05.04.2023 | Cloud Lunch and Learn | Ireland | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://www.youtube.com/watch?v=pgntkqvm0cY&t=2395s) |
@@ -93,10 +96,10 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | 10.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=KdqEID2kYCo&t=1713s) |
 | 07.09.2022 | Cloud Lunch And Learn | Ireland | [Power of DevOps CLI and REST API](https://www.youtube.com/watch?v=e4ub3zFF_wE) |
 | 06.09.2022 | Azure Back To School - 2022 | USA (Detroit and South Carolina) | [Can we Deploy Az B2C Using Terraform and Devops](https://www.youtube.com/watch?v=z18Rf9SCYPs&t=1386s) |
-| 18.08.2022 | Microsoft Azure Bern User Group | Switzerland(Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
+| 18.08.2022 | Microsoft Azure Bern User Group | Switzerland (Bern) | [Azure DevOps - Best Practises With Real-Time Demos](https://www.meetup.com/azure-cloud-bern-user-group/events/287592770/) |
 | 13.08.2022 | Microsoft Azure Pakistan Community | Pakistan | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.youtube.com/watch?v=6fGGT1uBImw) |
 | 28.07.2022 | Journey to the Cloud (7.0) | Ireland and USA | [AM in JTTC Talks On MS Azure Associate Certification (AZ-104)](https://www.youtube.com/watch?v=aul5P5shtQE) |
-| 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland(Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
+| 28.06.2022 | Microsoft Azure Zurich User Group | Switzerland (Zurich) | [ACR + Scan Images in ACR Using Trivy and DevOps](https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/286652334/) |
 | 15.06.2022 | Welsh Azure User Group | United Kingdom (UK) | [Fetch Secrets/Selective Secrets with No Access to Keyvault using DevOps Pipelines](https://www.youtube.com/watch?v=um_6WtIBSA8) |
 | 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
