@@ -78,7 +78,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 31.05.2023 | Cloud Lunch And Learn | Ireland | __IaC - Blueprints__ (Recording Coming Soon!!!) |
+| 31.05.2023 | Cloud Lunch And Learn | Ireland | [IaC - Blueprints](https://www.youtube.com/watch?v=BEEHo5M5de0&t=2163s) |
 | 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure Event) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
 | 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Advanced Analytics with Azure Devops Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
 | 28.04.2023 | Journey to the Cloud (Microsoft Ireland Event) | Ireland | [Microsoft Ireland Event - Azure and Security](https://www.youtube.com/watch?v=uekcRlcC1Pw) |
