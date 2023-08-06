@@ -60,7 +60,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 37 | 7 | 24 | 11 | 4 | 13 | 3 | 3 |
+| 37 | 7 | 25 | 12 | 4 | 13 | 3 | 3 |
 
 # OVERALL STATS ON BLOG SERIES:-
 
@@ -78,6 +78,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 04.08.2023 | Gira Online - LATAM 2023 | Latin America & Europe | [Terraform - Use Cases](https://www.youtube.com/watch?v=2E20doniajk) |
 | 31.05.2023 | Cloud Lunch And Learn | Ireland | [IaC - Blueprints](https://www.youtube.com/watch?v=BEEHo5M5de0&t=2163s) |
 | 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure Event) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
 | 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Advanced Analytics with Azure Devops Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
