@@ -129,7 +129,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Private DNS Zone of Azure Static WebApp #102010 | https://github.com/MicrosoftDocs/azure-docs/issues/102010 | __CLOSED__ |
 | Sample JSON Format Configuration file for All type of Service Connection #13074 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13074 | __OPEN__ |
 | Azure DevOps Pipelines Common service connection types does not include ACR #13251 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13251 | __OPEN__ |
-| Azure Container Registry Service Connection gets Stuck in Loading Subscription or Loading Registries | https://developercommunity.visualstudio.com/t/Azure-Container-Registry-Service-Connect/10340185 | __NEW__ |
+| Azure Container Registry Service Connection gets Stuck in Loading Subscription or Loading Registries | https://developercommunity.visualstudio.com/t/Azure-Container-Registry-Service-Connect/10340185 | __IN PROGRESS__ |
 
 # OVERALL STATS ON CONTRIBUTION TO ISSUES:-
 
