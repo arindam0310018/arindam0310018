@@ -111,7 +111,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Update analytical-data-stores.md #3577 | https://github.com/MicrosoftDocs/architecture-center/pull/3577 | __MERGED & CLOSED__ |
 | Private Endpoint limitation in Az Managed Grafana #99904 | https://github.com/MicrosoftDocs/azure-docs/pull/99904 | __MERGED & CLOSED__ |
 | MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __CLOSED__ |
-| Microsoft.Dashboard/grafana #275 | https://github.com/Azure/terraform-provider-azapi/pull/275 | __IN-PROGRESS__ |
+| Microsoft.Dashboard/grafana #275 | https://github.com/Azure/terraform-provider-azapi/pull/275 | __MERGED & CLOSED__ |
 
 # OVERALL STATS ON RAISED ISSUES:-
 
