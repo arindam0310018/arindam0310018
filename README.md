@@ -5,8 +5,6 @@ Hello All, my name is __ARINDAM MITRA__ 👋
 | <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
 | ----------- |
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
-
 I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Azure Cloud Solutions & DevOps Architect | Technical Blogger & Speaker Focused on Cloud Adoption, Architecture, Automation, Build and Run in Azure. 
 
 ![](https://komarev.com/ghpvc/?username=arindam0310018&style=for-the-badge&color=green)
