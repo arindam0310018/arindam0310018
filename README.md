@@ -9,6 +9,8 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 ![](https://komarev.com/ghpvc/?username=arindam0310018&style=for-the-badge&color=green)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+
 # AWARDS:-
 
 | __Microsoft MVP in Developer Technologies__ |
