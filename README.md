@@ -155,6 +155,8 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Azure Keyvault | Provision to Add Multiple Users while Creating KV Access Policy | https://feedback.azure.com/d365community/idea/e44f9d9c-e653-ed11-a81b-000d3a7c50ce | __NEW__ |
 | Azure Static WebApp | Custom Name included in the URL of Static WebApp Similar to Azure WebApp  | https://feedback.azure.com/d365community/idea/a8dab502-1a32-ec11-a819-000d3ae2b5ca | __NEW__ |
 | Azure Static WebApp | Single Private DNS Zone for Azure Static WebApp | https://feedback.azure.com/d365community/idea/0840a4d4-7667-ed11-a81b-000d3adb7ffd | __NEW__ |
+| MS Defender for Cloud - Defender for Storage | Azure Files does not support Malware Scanning in Defender for Storage | https://feedback.azure.com/d365community/idea/8f157cbc-d714-ee11-a81c-000d3adb7ffd | __NEW__ |
+
 
 <!--
 **arindam0310018/arindam0310018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
