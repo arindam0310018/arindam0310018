@@ -139,6 +139,8 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Sample JSON Format Configuration file for All type of Service Connection #13074 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13074 | __OPEN__ |
 | Azure DevOps Pipelines Common service connection types does not include ACR #13251 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13251 | __OPEN__ |
 | Azure Container Registry Service Connection gets Stuck in Loading Subscription or Loading Registries | https://developercommunity.visualstudio.com/t/Azure-Container-Registry-Service-Connect/10340185 | __IN PROGRESS__ |
+| App Service VNet Integrated Subnet cannot be deleted because Service Association Link still exists #116634 | https://github.com/MicrosoftDocs/azure-docs/issues/116634 | __OPEN__ |
+
 
 # OVERALL STATS ON CONTRIBUTION TO ISSUES:-
 
