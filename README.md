@@ -62,6 +62,51 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
 
+# PUBLICATIONS IN OSFY (OPEN SOURCE FOR YOU) - YEAR 2014 and 2015:-
+
+| __PUBLISHED ARTICLE NAME__ | __YEAR OF PUBLICATION__ |
+| ----------- | ----------- |
+| [Linux and Middleware(Glassfish)](https://www.opensourceforu.com/2015/03/configure-glassfish-on-a-clustered-environment/) | 2015 |
+| [Linux and Automations(Shell Scripts)](https://www.opensourceforu.com/2015/07/shell-scripts-you-will-love-to-use/) | 2015 |
+| [Linux and Mail(GMail)](https://www.opensourceforu.com/2015/08/relay-mails-using-gmail-on-rhel6-1/) | 2015 |
+| [Linux and Load Balancer(Pound)](https://www.opensourceforu.com/2014/10/use-pound-on-rhel-to-balance-the-load-on-web-servers/) | 2014 |
+
+# PUBLISHED BLOGS STATS - YEAR 2017 and 2019:-
+
+| __---YEAR 2019---__ |
+| --------- |
+
+| __DATE__ | __TOPICS__ | __CONTENT__ |
+| --------- |:---------:| -------:|
+| 16.10.2019 | AZURE DEVOPS | https://www.swisshimmel.com/post/hoi-azure-devops |
+| 08.10.2019 | AZURE AND IBM MAINFRAME | https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe |
+| 02.10.2019 | AZURE | https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz |
+| 26.09.2019 | AZURE AND ORACLE CLOUD | https://www.swisshimmel.com/post/orazure-a-one-stop-shop |
+| 16.09.2019 | AZURE | https://www.swisshimmel.com/post/why-move-workloads-to-azure |
+
+| __---YEAR 2017---__ |
+| --------- |
+
+| __DATE__ | __TOPICS__ | __CONTENT__ |
+| --------- |:---------:| -------:|
+| 11.08.2017 | LINUX AND MIDDLEWARE (JBOSS) | https://empiricalme.wordpress.com/2017/08/11/jboss-eap-6-3-troubleshooting-socket-binding-port-offset/ |
+| 19.07.2017 | LINUX AND MIDDLEWARE (JBOSS) | https://empiricalme.wordpress.com/2017/07/19/jboss-4-2-2-ga-configure-multiple-instances/  |
+| 18.07.2017 | LINUX CLIENT TOOLING (WINSCP) | https://empiricalme.wordpress.com/2017/07/18/winscp-troubleshooting/ |
+| 10.07.2017 | LINUX MIDDLEWARE (JBOSS) AUTOMATION | https://empiricalme.wordpress.com/2017/07/10/jboss-v4-2-2-ga-start-stop-and-restart-single-application-using-shell-script/ |
+| 10.07.2017 | LINUX | https://empiricalme.wordpress.com/2017/07/10/yum-keep-downloaded-software-in-cache/ |
+| 10.07.2017 | LINUX AND IBM MIDDLEWARE LICENSING (PART -1) | https://empiricalme.wordpress.com/2017/07/10/ibm-licensing-on-middleware-part-1-full-capacity-licensing/ |
+| 05.07.2017 | JYTHON | https://empiricalme.wordpress.com/2017/07/05/jython-how-to-list-ibm-websphere-application/ |
+| 05.07.2017 | LINUX AND LOADBALANCER (HAPROXY) | https://empiricalme.wordpress.com/2017/07/05/haproxy-software-load-balancer-how-to-configure/ |
+| 05.07.2017 | LINUX AND MIDDLEWARE (IBM WEBSPHERE MQ) | https://empiricalme.wordpress.com/2017/07/05/ibm-websphere-mq-developers-edition-where-to-download/ |
+| 04.07.2017 | LINUX AND WEB SERVER (APACHE) | https://empiricalme.wordpress.com/2017/07/04/apache-web-server-ssl-configuration/ |
+| 30.06.2017 | AUTOMATION (POWERSHELL) | https://empiricalme.wordpress.com/2017/06/30/powershell-script-create-multiple-users-in-active-directory-with-troubleshooting/ |
+| 29.06.2017 | LINUX AND WEB SERVER (APACHE) | https://empiricalme.wordpress.com/2017/06/29/apache-web-server-forward-proxy-using-ssl-certificate/ |
+| 28.06.2017 | LINUX MIDDLEWARE (JBOSS) AUTOMATION | https://empiricalme.wordpress.com/2017/06/28/jboss-start-stop-and-restart-multiple-codependent-applications-using-shell-script/ |
+| 26.06.2017 | VMWARE AUTOMATION | https://empiricalme.wordpress.com/2017/06/26/automate-virtual-machines-and-esx-host-shutdown-process/ |
+| 25.06.2017 | LINUX AUTOMATION | https://empiricalme.wordpress.com/2017/06/25/shell-script-add-multiple-users-with-password-change-option-on-first-login/ |
+| 25.06.2017 | LINUX AND NETWORK (RANCID) AUTOMATION | https://empiricalme.wordpress.com/2017/06/25/network-device-backup-using-rancid-on-rhel-5-5-x86/ |
+
+
 # OVERALL STATS ON MICROSOFT:-
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
