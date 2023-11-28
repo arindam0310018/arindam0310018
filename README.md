@@ -64,56 +64,47 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 # PUBLICATIONS IN OSFY (OPEN SOURCE FOR YOU) - YEAR 2014 and 2015:-
 
-| __PUBLISHED ARTICLE NAME__ | __YEAR OF PUBLICATION__ |
+| __PUBLISHED ARTICLE NAME__ | __YEAR__ |
 | ----------- | ----------- |
-| [Linux and Middleware(Glassfish)](https://www.opensourceforu.com/2015/03/configure-glassfish-on-a-clustered-environment/) | 2015 |
-| [Linux and Automations(Shell Scripts)](https://www.opensourceforu.com/2015/07/shell-scripts-you-will-love-to-use/) | 2015 |
-| [Linux and Mail(GMail)](https://www.opensourceforu.com/2015/08/relay-mails-using-gmail-on-rhel6-1/) | 2015 |
-| [Linux and Load Balancer(Pound)](https://www.opensourceforu.com/2014/10/use-pound-on-rhel-to-balance-the-load-on-web-servers/) | 2014 |
+| [Linux and Mail(GMail)](https://www.opensourceforu.com/2015/08/relay-mails-using-gmail-on-rhel6-1/) | Aug, 2015 |
+| [Linux and Automations(Shell Scripts)](https://www.opensourceforu.com/2015/07/shell-scripts-you-will-love-to-use/) | July, 2015 |
+| [Linux and Middleware(Glassfish)](https://www.opensourceforu.com/2015/03/configure-glassfish-on-a-clustered-environment/) | Mar, 2015 |
+| [Linux and Load Balancer(Pound)](https://www.opensourceforu.com/2014/10/use-pound-on-rhel-to-balance-the-load-on-web-servers/) | Oct, 2014 |
 
 # PUBLISHED BLOGS STATS - YEAR 2017 and 2019:-
 
-| __---YEAR 2019---__ |
-| --------- |
-
-| __DATE__ | __TOPICS__ | __CONTENT__ |
+| __BLOG POST__ | __YEAR__ | 
 | --------- |:---------:| -------:|
-| 16.10.2019 | AZURE DEVOPS | https://www.swisshimmel.com/post/hoi-azure-devops |
-| 08.10.2019 | AZURE AND IBM MAINFRAME | https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe |
-| 02.10.2019 | AZURE | https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz |
-| 26.09.2019 | AZURE AND ORACLE CLOUD | https://www.swisshimmel.com/post/orazure-a-one-stop-shop |
-| 16.09.2019 | AZURE | https://www.swisshimmel.com/post/why-move-workloads-to-azure |
-
-| __---YEAR 2017---__ |
-| --------- |
-
-| __DATE__ | __TOPICS__ | __CONTENT__ |
-| --------- |:---------:| -------:|
-| 11.08.2017 | LINUX AND MIDDLEWARE (JBOSS) | https://empiricalme.wordpress.com/2017/08/11/jboss-eap-6-3-troubleshooting-socket-binding-port-offset/ |
-| 19.07.2017 | LINUX AND MIDDLEWARE (JBOSS) | https://empiricalme.wordpress.com/2017/07/19/jboss-4-2-2-ga-configure-multiple-instances/  |
-| 18.07.2017 | LINUX CLIENT TOOLING (WINSCP) | https://empiricalme.wordpress.com/2017/07/18/winscp-troubleshooting/ |
-| 10.07.2017 | LINUX MIDDLEWARE (JBOSS) AUTOMATION | https://empiricalme.wordpress.com/2017/07/10/jboss-v4-2-2-ga-start-stop-and-restart-single-application-using-shell-script/ |
-| 10.07.2017 | LINUX | https://empiricalme.wordpress.com/2017/07/10/yum-keep-downloaded-software-in-cache/ |
-| 10.07.2017 | LINUX AND IBM MIDDLEWARE LICENSING (PART -1) | https://empiricalme.wordpress.com/2017/07/10/ibm-licensing-on-middleware-part-1-full-capacity-licensing/ |
-| 05.07.2017 | JYTHON | https://empiricalme.wordpress.com/2017/07/05/jython-how-to-list-ibm-websphere-application/ |
-| 05.07.2017 | LINUX AND LOADBALANCER (HAPROXY) | https://empiricalme.wordpress.com/2017/07/05/haproxy-software-load-balancer-how-to-configure/ |
-| 05.07.2017 | LINUX AND MIDDLEWARE (IBM WEBSPHERE MQ) | https://empiricalme.wordpress.com/2017/07/05/ibm-websphere-mq-developers-edition-where-to-download/ |
-| 04.07.2017 | LINUX AND WEB SERVER (APACHE) | https://empiricalme.wordpress.com/2017/07/04/apache-web-server-ssl-configuration/ |
-| 30.06.2017 | AUTOMATION (POWERSHELL) | https://empiricalme.wordpress.com/2017/06/30/powershell-script-create-multiple-users-in-active-directory-with-troubleshooting/ |
-| 29.06.2017 | LINUX AND WEB SERVER (APACHE) | https://empiricalme.wordpress.com/2017/06/29/apache-web-server-forward-proxy-using-ssl-certificate/ |
-| 28.06.2017 | LINUX MIDDLEWARE (JBOSS) AUTOMATION | https://empiricalme.wordpress.com/2017/06/28/jboss-start-stop-and-restart-multiple-codependent-applications-using-shell-script/ |
-| 26.06.2017 | VMWARE AUTOMATION | https://empiricalme.wordpress.com/2017/06/26/automate-virtual-machines-and-esx-host-shutdown-process/ |
-| 25.06.2017 | LINUX AUTOMATION | https://empiricalme.wordpress.com/2017/06/25/shell-script-add-multiple-users-with-password-change-option-on-first-login/ |
-| 25.06.2017 | LINUX AND NETWORK (RANCID) AUTOMATION | https://empiricalme.wordpress.com/2017/06/25/network-device-backup-using-rancid-on-rhel-5-5-x86/ |
+| [Hoi Azure Devops](https://www.swisshimmel.com/post/hoi-azure-devops) | Oct, 2019 |
+| [Azure and IBM Mainframe](https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe) | Oct, 2019 |
+| [Azure in der Schweiz](https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz) | Oct, 2019 | 
+| [ORA a one stop shop](https://www.swisshimmel.com/post/orazure-a-one-stop-shop) | Sept, 2019 | 
+| [why move workload to Azure](https://www.swisshimmel.com/post/why-move-workloads-to-azure) | Sept, 2019 |
+| [Linux and Middleware Troubleshooting (JBoss)](https://empiricalme.wordpress.com/2017/08/11/jboss-eap-6-3-troubleshooting-socket-binding-port-offset/) | Aug, 2017 | 
+| [Linux and Middleware Multiple Instances (JBoss)](https://empiricalme.wordpress.com/2017/07/19/jboss-4-2-2-ga-configure-multiple-instances/) | July, 2017 | 
+| [Linux Client Tooling (WinSCP)](https://empiricalme.wordpress.com/2017/07/18/winscp-troubleshooting/) | July, 2017 | 
+| [Linux Middleware (JBOSS) Automation](https://empiricalme.wordpress.com/2017/07/10/jboss-v4-2-2-ga-start-stop-and-restart-single-application-using-shell-script/) | July, 2017 | 
+| [Linux - Download Software in Cache](https://empiricalme.wordpress.com/2017/07/10/yum-keep-downloaded-software-in-cache/) | July, 2017 | 
+| [Linux and IBM Middleware Licensing (Part -1)](https://empiricalme.wordpress.com/2017/07/10/ibm-licensing-on-middleware-part-1-full-capacity-licensing/) | July, 2017 | 
+| [List IBM Websphere Application Using Jython](https://empiricalme.wordpress.com/2017/07/05/jython-how-to-list-ibm-websphere-application/) | July, 2017 | 
+| [Linux and Loadbalancer(HAProxy)](https://empiricalme.wordpress.com/2017/07/05/haproxy-software-load-balancer-how-to-configure/) | July, 2017 | 
+| [Linux and Middleware(IBM Websphere MQ](https://empiricalme.wordpress.com/2017/07/05/ibm-websphere-mq-developers-edition-where-to-download/) |  July, 2017 | 
+| [Linux and Web Server (Apache)](https://empiricalme.wordpress.com/2017/07/04/apache-web-server-ssl-configuration/) | July, 2017 | 
+| [Automation (Powershell)](https://empiricalme.wordpress.com/2017/06/30/powershell-script-create-multiple-users-in-active-directory-with-troubleshooting/) | June, 2017 | 
+| [Linux and Web Server(Apache)](https://empiricalme.wordpress.com/2017/06/29/apache-web-server-forward-proxy-using-ssl-certificate/) | June, 2017 | 
+| [Linux Middleware (JBoss) Automation](https://empiricalme.wordpress.com/2017/06/28/jboss-start-stop-and-restart-multiple-codependent-applications-using-shell-script/) | June, 2017 | 
+| [VMware Automation (Start Stop ESX Host)](https://empiricalme.wordpress.com/2017/06/26/automate-virtual-machines-and-esx-host-shutdown-process/) | June, 2017 | 
+| [Linux Automation](https://empiricalme.wordpress.com/2017/06/25/shell-script-add-multiple-users-with-password-change-option-on-first-login/) | June, 2017 | 
+| [Linux and Network (Rancid) Automation](https://empiricalme.wordpress.com/2017/06/25/network-device-backup-using-rancid-on-rhel-5-5-x86/) | June, 2017 | 
 
 
-# OVERALL STATS ON MICROSOFT:-
+# OVERALL STATS ON MICROSOFT (SINCE YEAR 2022):-
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 41 | 7 | 28 | 13 | 4 | 14 | 3 | 5 |
 
-# OVERALL STATS ON BLOG SERIES:-
+# OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
@@ -125,7 +116,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 7 |
 | [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
-# OVERALL STATS ON SPEAKER SESSIONS:-
+# OVERALL STATS ON SPEAKER SESSIONS (SINCE YEAR 2022):-
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
@@ -158,7 +149,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | 13.05.2022 | Journey to the Cloud (5.0) | Ireland and USA | [Power of DevOps CLI and REST API](https://youtube.com/watch?v=-8smQnve87k) |
 | 28.04.2022 | Journey to the Cloud (4.0) | Ireland and USA | [Azure Lighthouse](https://www.youtube.com/watch?v=C0s6A758mn0) |
 
-# OVERALL STATS ON PULL REQUESTS:-
+# OVERALL STATS ON PULL REQUESTS (SINCE YEAR 2022):-
 
 | __MICROSOFT PULL REQUEST TOPIC__ | __LINK TO THE PULL REQUEST__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -167,7 +158,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | MS Defender for Cloud - GitHub repos Limitations #100739 | https://github.com/MicrosoftDocs/azure-docs/pull/100739 | __CLOSED__ |
 | Microsoft.Dashboard/grafana #275 | https://github.com/Azure/terraform-provider-azapi/pull/275 | __MERGED & CLOSED__ |
 
-# OVERALL STATS ON RAISED ISSUES:-
+# OVERALL STATS ON RAISED ISSUES (SINCE YEAR 2022):-
 
 | __MICROSOFT ISSUE TOPIC__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -187,7 +178,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | App Service VNet Integrated Subnet cannot be deleted because Service Association Link still exists #116634 | https://github.com/MicrosoftDocs/azure-docs/issues/116634 | __CLOSED__ |
 
 
-# OVERALL STATS ON CONTRIBUTION TO ISSUES:-
+# OVERALL STATS ON CONTRIBUTION TO ISSUES (SINCE YEAR 2022):-
 
 | __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
 | ----------- | ----------- | ----------- |
@@ -195,7 +186,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Please provide the JSON examples for --service-endpoint-configuration | https://github.com/Azure/azure-cli-extensions/issues/1495 | __CLOSED__ |
 | Create service endpoint connections to Docker registry & ACR | https://github.com/Azure/azure-devops-cli-extension/issues/706 | __CLOSED__ |
 
-# OVERALL STATS ON PRODUCT FEEDBACK:-
+# OVERALL STATS ON PRODUCT FEEDBACK (SINCE YEAR 2022):-
 
 | __MS PRODUCT FEEDBACK CATEGORY__ | __MS PRODUCT FEEDBACK TITLE__ | __LINK__ | __STATUS__ |
 | ----------- | ----------- | ----------- | ----------- |
