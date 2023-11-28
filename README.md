@@ -74,7 +74,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 # PUBLISHED BLOGS STATS - YEAR 2017 and 2019:-
 
 | __BLOG POST__ | __YEAR__ | 
-| --------- |:---------:| -------:|
+| --------- |:---------:|
 | [Hoi Azure Devops](https://www.swisshimmel.com/post/hoi-azure-devops) | Oct, 2019 |
 | [Azure and IBM Mainframe](https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe) | Oct, 2019 |
 | [Azure in der Schweiz](https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz) | Oct, 2019 | 
