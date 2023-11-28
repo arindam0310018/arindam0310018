@@ -116,6 +116,12 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 7 |
 | [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
+# OVERALL STATS ON PODCAST (SINCE YEAR 2022):-
+
+| __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 28.08.2023 | Virtual Boston Azure | USA (Boston) | [After Show Conversation](https://sites.libsyn.com/464280/after-show-with-arindam-mitra) |
+
 # OVERALL STATS ON SPEAKER SESSIONS (SINCE YEAR 2022):-
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
