@@ -62,42 +62,6 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
 
-# PUBLICATIONS IN OSFY (OPEN SOURCE FOR YOU) - YEAR 2014 and 2015:-
-
-| __PUBLISHED ARTICLE NAME__ | __YEAR__ |
-| ----------- | ----------- |
-| [Linux and Mail(GMail)](https://www.opensourceforu.com/2015/08/relay-mails-using-gmail-on-rhel6-1/) | Aug, 2015 |
-| [Linux and Automations(Shell Scripts)](https://www.opensourceforu.com/2015/07/shell-scripts-you-will-love-to-use/) | July, 2015 |
-| [Linux and Middleware(Glassfish)](https://www.opensourceforu.com/2015/03/configure-glassfish-on-a-clustered-environment/) | Mar, 2015 |
-| [Linux and Load Balancer(Pound)](https://www.opensourceforu.com/2014/10/use-pound-on-rhel-to-balance-the-load-on-web-servers/) | Oct, 2014 |
-
-# PUBLISHED BLOGS STATS - YEAR 2017 and 2019:-
-
-| __BLOG POST__ | __YEAR__ | 
-| --------- |:---------:|
-| [Hoi Azure Devops](https://www.swisshimmel.com/post/hoi-azure-devops) | Oct, 2019 |
-| [Azure and IBM Mainframe](https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe) | Oct, 2019 |
-| [Azure in der Schweiz](https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz) | Oct, 2019 | 
-| [ORA a one stop shop](https://www.swisshimmel.com/post/orazure-a-one-stop-shop) | Sept, 2019 | 
-| [why move workload to Azure](https://www.swisshimmel.com/post/why-move-workloads-to-azure) | Sept, 2019 |
-| [Linux and Middleware Troubleshooting (JBoss)](https://empiricalme.wordpress.com/2017/08/11/jboss-eap-6-3-troubleshooting-socket-binding-port-offset/) | Aug, 2017 | 
-| [Linux and Middleware Multiple Instances (JBoss)](https://empiricalme.wordpress.com/2017/07/19/jboss-4-2-2-ga-configure-multiple-instances/) | July, 2017 | 
-| [Linux Client Tooling (WinSCP)](https://empiricalme.wordpress.com/2017/07/18/winscp-troubleshooting/) | July, 2017 | 
-| [Linux Middleware (JBOSS) Automation](https://empiricalme.wordpress.com/2017/07/10/jboss-v4-2-2-ga-start-stop-and-restart-single-application-using-shell-script/) | July, 2017 | 
-| [Linux - Download Software in Cache](https://empiricalme.wordpress.com/2017/07/10/yum-keep-downloaded-software-in-cache/) | July, 2017 | 
-| [Linux and IBM Middleware Licensing (Part -1)](https://empiricalme.wordpress.com/2017/07/10/ibm-licensing-on-middleware-part-1-full-capacity-licensing/) | July, 2017 | 
-| [List IBM Websphere Application Using Jython](https://empiricalme.wordpress.com/2017/07/05/jython-how-to-list-ibm-websphere-application/) | July, 2017 | 
-| [Linux and Loadbalancer(HAProxy)](https://empiricalme.wordpress.com/2017/07/05/haproxy-software-load-balancer-how-to-configure/) | July, 2017 | 
-| [Linux and Middleware(IBM Websphere MQ](https://empiricalme.wordpress.com/2017/07/05/ibm-websphere-mq-developers-edition-where-to-download/) |  July, 2017 | 
-| [Linux and Web Server (Apache)](https://empiricalme.wordpress.com/2017/07/04/apache-web-server-ssl-configuration/) | July, 2017 | 
-| [Automation (Powershell)](https://empiricalme.wordpress.com/2017/06/30/powershell-script-create-multiple-users-in-active-directory-with-troubleshooting/) | June, 2017 | 
-| [Linux and Web Server(Apache)](https://empiricalme.wordpress.com/2017/06/29/apache-web-server-forward-proxy-using-ssl-certificate/) | June, 2017 | 
-| [Linux Middleware (JBoss) Automation](https://empiricalme.wordpress.com/2017/06/28/jboss-start-stop-and-restart-multiple-codependent-applications-using-shell-script/) | June, 2017 | 
-| [VMware Automation (Start Stop ESX Host)](https://empiricalme.wordpress.com/2017/06/26/automate-virtual-machines-and-esx-host-shutdown-process/) | June, 2017 | 
-| [Linux Automation](https://empiricalme.wordpress.com/2017/06/25/shell-script-add-multiple-users-with-password-change-option-on-first-login/) | June, 2017 | 
-| [Linux and Network (Rancid) Automation](https://empiricalme.wordpress.com/2017/06/25/network-device-backup-using-rancid-on-rhel-5-5-x86/) | June, 2017 | 
-
-
 # OVERALL STATS ON MICROSOFT (SINCE YEAR 2022):-
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
@@ -183,7 +147,6 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | Azure Container Registry Service Connection gets Stuck in Loading Subscription or Loading Registries | https://developercommunity.visualstudio.com/t/Azure-Container-Registry-Service-Connect/10340185 | __IN PROGRESS__ |
 | App Service VNet Integrated Subnet cannot be deleted because Service Association Link still exists #116634 | https://github.com/MicrosoftDocs/azure-docs/issues/116634 | __CLOSED__ |
 
-
 # OVERALL STATS ON CONTRIBUTION TO ISSUES (SINCE YEAR 2022):-
 
 | __CONTRIBUTION TO MICROSOFT ISSUES__ | __LINK TO ISSUE__ | __STATUS__ |
@@ -202,6 +165,40 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | MS Defender for Cloud - Defender for Storage | Azure Files does not support Malware Scanning in Defender for Storage | https://feedback.azure.com/d365community/idea/8f157cbc-d714-ee11-a81c-000d3adb7ffd | __NEW__ |
 | Azure Web App and Azure Networking | Subnet cannot be deleted because Service Association Link still exists | https://feedback.azure.com/d365community/idea/c88382d1-db77-ee11-a81c-6045bdb7ea56 | __NEW__ |
 
+# PUBLICATIONS IN OSFY (OPEN SOURCE FOR YOU) - YEAR 2014 and 2015:-
+
+| __PUBLISHED ARTICLE NAME__ | __YEAR__ |
+| ----------- | ----------- |
+| [Linux and Mail(GMail)](https://www.opensourceforu.com/2015/08/relay-mails-using-gmail-on-rhel6-1/) | Aug, 2015 |
+| [Linux and Automations(Shell Scripts)](https://www.opensourceforu.com/2015/07/shell-scripts-you-will-love-to-use/) | July, 2015 |
+| [Linux and Middleware(Glassfish)](https://www.opensourceforu.com/2015/03/configure-glassfish-on-a-clustered-environment/) | Mar, 2015 |
+| [Linux and Load Balancer(Pound)](https://www.opensourceforu.com/2014/10/use-pound-on-rhel-to-balance-the-load-on-web-servers/) | Oct, 2014 |
+
+# PUBLISHED BLOGS STATS - YEAR 2017 and 2019:-
+
+| __BLOG POST__ | __YEAR__ | 
+| --------- |:---------:|
+| [Hoi Azure Devops](https://www.swisshimmel.com/post/hoi-azure-devops) | Oct, 2019 |
+| [Azure and IBM Mainframe](https://www.swisshimmel.com/post/ist-azure-die-neue-mainframe) | Oct, 2019 |
+| [Azure in der Schweiz](https://www.swisshimmel.com/post/microsoft-azure-in-der-schweiz) | Oct, 2019 | 
+| [ORA a one stop shop](https://www.swisshimmel.com/post/orazure-a-one-stop-shop) | Sept, 2019 | 
+| [why move workload to Azure](https://www.swisshimmel.com/post/why-move-workloads-to-azure) | Sept, 2019 |
+| [Linux and Middleware Troubleshooting (JBoss)](https://empiricalme.wordpress.com/2017/08/11/jboss-eap-6-3-troubleshooting-socket-binding-port-offset/) | Aug, 2017 | 
+| [Linux and Middleware Multiple Instances (JBoss)](https://empiricalme.wordpress.com/2017/07/19/jboss-4-2-2-ga-configure-multiple-instances/) | July, 2017 | 
+| [Linux Client Tooling (WinSCP)](https://empiricalme.wordpress.com/2017/07/18/winscp-troubleshooting/) | July, 2017 | 
+| [Linux Middleware (JBOSS) Automation](https://empiricalme.wordpress.com/2017/07/10/jboss-v4-2-2-ga-start-stop-and-restart-single-application-using-shell-script/) | July, 2017 | 
+| [Linux - Download Software in Cache](https://empiricalme.wordpress.com/2017/07/10/yum-keep-downloaded-software-in-cache/) | July, 2017 | 
+| [Linux and IBM Middleware Licensing (Part -1)](https://empiricalme.wordpress.com/2017/07/10/ibm-licensing-on-middleware-part-1-full-capacity-licensing/) | July, 2017 | 
+| [List IBM Websphere Application Using Jython](https://empiricalme.wordpress.com/2017/07/05/jython-how-to-list-ibm-websphere-application/) | July, 2017 | 
+| [Linux and Loadbalancer(HAProxy)](https://empiricalme.wordpress.com/2017/07/05/haproxy-software-load-balancer-how-to-configure/) | July, 2017 | 
+| [Linux and Middleware(IBM Websphere MQ](https://empiricalme.wordpress.com/2017/07/05/ibm-websphere-mq-developers-edition-where-to-download/) |  July, 2017 | 
+| [Linux and Web Server (Apache)](https://empiricalme.wordpress.com/2017/07/04/apache-web-server-ssl-configuration/) | July, 2017 | 
+| [Automation (Powershell)](https://empiricalme.wordpress.com/2017/06/30/powershell-script-create-multiple-users-in-active-directory-with-troubleshooting/) | June, 2017 | 
+| [Linux and Web Server(Apache)](https://empiricalme.wordpress.com/2017/06/29/apache-web-server-forward-proxy-using-ssl-certificate/) | June, 2017 | 
+| [Linux Middleware (JBoss) Automation](https://empiricalme.wordpress.com/2017/06/28/jboss-start-stop-and-restart-multiple-codependent-applications-using-shell-script/) | June, 2017 | 
+| [VMware Automation (Start Stop ESX Host)](https://empiricalme.wordpress.com/2017/06/26/automate-virtual-machines-and-esx-host-shutdown-process/) | June, 2017 | 
+| [Linux Automation](https://empiricalme.wordpress.com/2017/06/25/shell-script-add-multiple-users-with-password-change-option-on-first-login/) | June, 2017 | 
+| [Linux and Network (Rancid) Automation](https://empiricalme.wordpress.com/2017/06/25/network-device-backup-using-rancid-on-rhel-5-5-x86/) | June, 2017 | 
 
 <!--
 **arindam0310018/arindam0310018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
