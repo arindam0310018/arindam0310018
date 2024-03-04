@@ -66,7 +66,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 47 | 8 | 28 | 13 | 4 | 14 | 3 | 5 |
+| 47 | 8 | 31 | 13 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
@@ -91,6 +91,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 14.03.2024 | Workload Identity Federation with Azure DevOps and Terraform | Public Speaking (Virtual) | [90 Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2024.md) (__My Session is on Day 74__) |
+| 07.03.2024 | Terraform Cloud - Zero to Hero | Public Speaking (Virtual) | [Azure Spring Clean 2024](https://www.azurespringclean.com/) |
+| 18.12.2023 | Decentralized Devops | Public Speaking (Virtual) | [Festive Tech Calendar 2023](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
 | 28.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Container Apps - Zero to Hero](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45197) |
 | 25.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45194) |
 | 14.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate App Management with AAD Graph and Devops](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45183) |
