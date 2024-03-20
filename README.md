@@ -91,9 +91,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 14.03.2024 | Workload Identity Federation with Azure DevOps and Terraform | Public Speaking (Virtual) | [90 Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2024.md) (__My Session is on Day 74__) |
-| 07.03.2024 | Terraform Cloud - Zero to Hero | Public Speaking (Virtual) | [Azure Spring Clean 2024](https://www.azurespringclean.com/) |
-| 18.12.2023 | Decentralized Devops | Public Speaking (Virtual) | [Festive Tech Calendar 2023](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
+| 14.03.2024 | 90 Days of Devops | Public Speaking (Virtual) | [Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY&t=920s) |
+| 07.03.2024 | Azure Spring Clean 2024 | Public Speaking (Virtual) | [Terraform Cloud - Zero to Hero](https://www.azurespringclean.com/) |
+| 18.12.2023 | Festive Tech Calendar 2023 | Public Speaking (Virtual) | [Decentralized Devops](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
 | 28.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Container Apps - Zero to Hero](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45197) |
 | 25.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45194) |
 | 14.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate App Management with AAD Graph and Devops](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45183) |
