@@ -66,16 +66,18 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 48 | 8 | 31 | 13 | 4 | 14 | 3 | 5 |
+| 54 | 8 | 31 | 13 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
 | ----------- | ----------- |
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 7 |
+| [CDK FOR TERRAFORM](https://dev.to/arindam0310018/series/27119) | 4 |
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 3 |
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 9 |
+| [PACKER](https://dev.to/arindam0310018/series/27235) | 2 |
 | [SECURITY](https://dev.to/arindam0310018/series/22367) | 2 |
 | [TERRAFORM](https://dev.to/arindam0310018/series/20638) | 8 |
 | [TERRAFORM-CLOUD](https://dev.to/arindam0310018/series/25577) | 4 |
@@ -91,6 +93,8 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 01.05.2024 | Cloud Lunch and Learn | Ireland | [Hashi Packer](https://www.youtube.com/watch?v=67pfa4gyBlk&t=1834s)
+| 18.04.2024 | Microsoft Azure Zurich User Group (Global Azure 2024) | Switzerland (Zurich) | [CDK for Terraform](https://www.youtube.com/watch?v=ePFFTBN_Fis&t=1319s) |
 | 14.03.2024 | 90 Days of Devops | Public Speaking (Virtual) | [Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY&t=920s) |
 | 07.03.2024 | Azure Spring Clean 2024 | Public Speaking (Virtual) | [Terraform Cloud - Zero to Hero](https://www.azurespringclean.com/) |
 | 18.12.2023 | Festive Tech Calendar 2023 | Public Speaking (Virtual) | [Decentralized Devops](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
@@ -99,7 +103,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | 14.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate App Management with AAD Graph and Devops](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45183) |
 | 04.08.2023 | Gira Online - LATAM 2023 | Latin America & Europe | [Terraform - Use Cases](https://www.youtube.com/watch?v=2E20doniajk) |
 | 31.05.2023 | Cloud Lunch And Learn | Ireland | [IaC - Blueprints](https://www.youtube.com/watch?v=BEEHo5M5de0&t=2163s) |
-| 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure Event) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
+| 13.05.2023 | Microsoft Azure Zurich User Group (Global Azure 2023) | Switzerland (Zurich) | [IaC - Blueprints](https://www.youtube.com/watch?v=nf8iTvWEsNI&t=10s) |
 | 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Advanced Analytics with Azure Devops Dojo](https://github.com/arindam0310018/11-May-2023-Advanced-Analytics-with-Devops__Azure-Bootcamp-2023) |
 | 28.04.2023 | Journey to the Cloud (Microsoft Ireland Event) | Ireland | [Microsoft Ireland Event - Azure and Security](https://www.youtube.com/watch?v=uekcRlcC1Pw) |
 | 15.04.2023 | Microsoft Azure Pakistan Community | Pakistan | [Automate pull request & associate work-items using Az Devops](https://www.youtube.com/watch?v=acyE2gWiLdI&t=1853s) |
