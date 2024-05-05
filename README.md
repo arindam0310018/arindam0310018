@@ -66,7 +66,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 54 | 8 | 31 | 13 | 4 | 14 | 3 | 5 |
+| 54 | 10 | 33 | 13 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
