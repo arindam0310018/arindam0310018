@@ -66,7 +66,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 54 | 10 | 33 | 13 | 4 | 14 | 3 | 5 |
+| 59 | 11 | 33 | 13 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
@@ -74,6 +74,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | ----------- | ----------- |
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 7 |
 | [CDK FOR TERRAFORM](https://dev.to/arindam0310018/series/27119) | 4 |
+| [DATA & AI](https://dev.to/arindam0310018/series/27306) | 5 |
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 3 |
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 9 |
