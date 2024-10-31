@@ -75,7 +75,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 59 | 11 | 33 | 13 | 4 | 14 | 3 | 5 |
+| 64 | 12 | 36 | 13 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
@@ -103,6 +103,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 03.07.2023 | The Cloud Show with Magnus Martensson (Talk Show) | Sweden (Malmo) | [Decentralized Devops](https://www.youtube.com/watch?v=IuiC4_RNv9c&t=5s) |
+| 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Ask the Experts](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
+| 11.05.2023 | Azure Bootcamp 2023 | Switzerland (Bern) | [Model Platform](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
 | 01.05.2024 | Cloud Lunch and Learn | Ireland | [Hashi Packer](https://www.youtube.com/watch?v=67pfa4gyBlk&t=1834s)
 | 18.04.2024 | Microsoft Azure Zurich User Group (Global Azure 2024) | Switzerland (Zurich) | [CDK for Terraform](https://www.youtube.com/watch?v=ePFFTBN_Fis&t=1319s) |
 | 14.03.2024 | 90 Days of Devops | Public Speaking (Virtual) | [Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY&t=920s) |
