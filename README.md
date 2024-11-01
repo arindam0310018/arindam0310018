@@ -89,6 +89,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 7 |
 | [CDK FOR TERRAFORM](https://dev.to/arindam0310018/series/27119) | 4 |
 | [DATA & AI](https://dev.to/arindam0310018/series/27306) | 5 |
+| [DIAGRAM AS CODE](https://dev.to/arindam0310018/series/28254) | 2 | 
 | [GITHUB & GITHUB-ACTIONS](https://dev.to/arindam0310018/series/20135) | 3 |
 | [KV-SECRETS-PIPELINES](https://dev.to/arindam0310018/series/19409) | 2 |
 | [OPS-IN-DEVOPS](https://dev.to/arindam0310018/series/19351) | 9 |
