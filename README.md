@@ -15,6 +15,10 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 # AWARDS:-
 
+| __Microsoft MVP 2024: Azure Infrastructure as Code__ |
+| ----------- |
+| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
+
 | __Microsoft MVP 2023: Developer Technologies__ |
 | ----------- |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
@@ -23,10 +27,11 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | ----------- |
 | ![image](https://github.com/arindam0310018/arindam0310018/assets/29681063/c8739943-bc42-42f6-9a5f-9060526d034e) |
 
-| __Microsoft MVP 2024: Azure Infrastructure as Code__ |
-| ----------- |
-| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
+# HALF MARATHONS:-
 
+| __Swiss City: Luzern - 2024__ |
+| ----------- |
+| ![SwissCity-Luzern-Half-Marathon-2024](https://github.com/user-attachments/assets/1493ddce-37c7-4fad-aea8-735f9ee1864b) |
 
 # FOLLOW/SUBSCRIBE:-
 
