@@ -66,10 +66,10 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 # GET-IN-TOUCH/CONNECT:-
 
 <a href="mailto:mail2arindam2003@yahoo.com">
-    <img src="https://img.shields.io/badge/-Yahoomail-purple?style=flat-square&logo=Youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Yahoomail-purple?style=flat-square&logo=mail&logoColor=white"/>
   </a>
 <a href="mailto:arindam0310018@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=Youtube&logoColor=red"/>
+    <img src="https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=mail&logoColor=red"/>
   </a>
 
 <!--
