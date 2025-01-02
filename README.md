@@ -67,6 +67,8 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 [![Arindam Mitra`s GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
 
+[![Arindam Mitra`s GitHub Streak](https://streak-stats.demolab.com/?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+
 # RECENT TWEETS:-
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
