@@ -9,6 +9,13 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 ![](https://komarev.com/ghpvc/?username=arindam0310018&style=for-the-badge&color=green)
 
+<p align="left">
+  <a href="https://github.com/arindam0310018?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/arindam0310018?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/arindam0310018?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/arindam0310018?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 <!--
 ![GitHub Repo stars](https://img.shields.io/github/stars/arindam0310018/arindam0310018?style=social)
 -->
@@ -65,9 +72,11 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 [![Arindam Mitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindam0310018&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Arindam Mitra`s GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
 
 [![Arindam Mitra`s GitHub Streak](https://streak-stats.demolab.com/?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
+-->
 
 # RECENT TWEETS:-
 
