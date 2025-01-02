@@ -68,19 +68,20 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 -  [Yahoomail](mailto:mail2arindam2003@yahoo.com)
 -  [Gmail](mailto:arindam0310018@gmail.com)
 
+<!--
 # GITHUB STATS:-
 
 [![Arindam Mitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindam0310018&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 [![Arindam Mitra`s GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
 
 [![Arindam Mitra`s GitHub Streak](https://streak-stats.demolab.com/?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
--->
 
 # RECENT TWEETS:-
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/arindam0310018?ref_src=twsrc%5Etfw")
+
+-->
 
 # OVERALL STATS ON MICROSOFT (SINCE YEAR 2022):-
 
