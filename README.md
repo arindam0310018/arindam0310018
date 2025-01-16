@@ -36,7 +36,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 | __Sessionize 2025: Speaker of the Day (9th Jan)__ |
 | ----------- |
-| <img src="https://github.com/user-attachments/assets/657ca447-2579-4f69-8b85-e29d71954870" width="80" height="80"> |
+| <img src="https://github.com/user-attachments/assets/657ca447-2579-4f69-8b85-e29d71954870" width="150" height="150"> |
 
 # FOLLOW/SUBSCRIBE:-
 
