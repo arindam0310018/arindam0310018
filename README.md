@@ -34,6 +34,9 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | ----------- |
 | ![image](https://github.com/arindam0310018/arindam0310018/assets/29681063/c8739943-bc42-42f6-9a5f-9060526d034e) |
 
+| __Sessionize 2025: Speaker of the Day (9th Jan)__ |
+| ----------- |
+| ![Sessionize-Speaker-of-Day-2025](https://github.com/user-attachments/assets/657ca447-2579-4f69-8b85-e29d71954870) |
 
 # FOLLOW/SUBSCRIBE:-
 
