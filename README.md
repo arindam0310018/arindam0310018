@@ -23,19 +23,19 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 # AWARDS:-
 
 | __Microsoft MVP 2024: Azure Infrastructure as Code__ |
-| ----------- |
+| :-----------: |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
 
 | __Microsoft MVP 2023: Developer Technologies__ |
-| ----------- |
+| :-----------: |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
 
 | __Sessionize 2023: Most Active Speaker__ |
-| ----------- |
+| :-----------: |
 | ![image](https://github.com/arindam0310018/arindam0310018/assets/29681063/c8739943-bc42-42f6-9a5f-9060526d034e) |
 
 | __Sessionize 2025: Speaker of the Day (9th Jan)__ |
-| ----------- |
+| :-----------: |
 | <img src="https://github.com/user-attachments/assets/657ca447-2579-4f69-8b85-e29d71954870" width="600" height="425"> |
 
 # FOLLOW/SUBSCRIBE:-
