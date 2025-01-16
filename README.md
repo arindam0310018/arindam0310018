@@ -95,7 +95,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 | 69 | 13 | 38 | 13 | 
 
 | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
-| ----------- | ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
