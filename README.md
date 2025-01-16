@@ -101,7 +101,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
 | __NAME OF BLOG SERIES__ | __NO. OF BLOGS IN THE SERIES__ |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | [ARCHITECTURE](https://dev.to/arindam0310018/series/20033) | 8 |
 | [CDK FOR TERRAFORM](https://dev.to/arindam0310018/series/27119) | 4 |
 | [DATA & AI](https://dev.to/arindam0310018/series/27306) | 7 |
