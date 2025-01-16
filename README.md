@@ -90,9 +90,13 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 # OVERALL STATS ON MICROSOFT (SINCE YEAR 2022):-
 
-| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 69 | 13 | 38 | 13 | 4 | 14 | 3 | 5 |
+| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 69 | 13 | 38 | 13 | 
+
+| __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 4 | 14 | 3 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
