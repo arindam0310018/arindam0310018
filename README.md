@@ -20,6 +20,11 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 ![GitHub Repo stars](https://img.shields.io/github/stars/arindam0310018/arindam0310018?style=social)
 -->
 
+# MY MIND-MAP:-
+
+| ![image](https://github.com/user-attachments/assets/54a5f34a-274f-4886-93ae-be5b6d12f28e) |
+| ----------- |
+
 # AWARDS:-
 
 | __Microsoft MVP 2024: Azure Infrastructure as Code__ |
