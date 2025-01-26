@@ -125,6 +125,12 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 | [TERRAFORM-CLOUD](https://dev.to/arindam0310018/series/25577) | 4 |
 | [TROUBLESHOOT](https://dev.to/arindam0310018/series/20374) | 3 |
 
+# OVERALL STATS ON TALK-SHOW (SINCE YEAR 2022):-
+
+| __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
+| ----------- | ----------- | ----------- | ----------- |
+| 03.07.2024 | The Cloud Show with Magnus Martensson (Talk Show) | Sweden (Malmo) | [Decentralized Devops](https://www.youtube.com/watch?v=IuiC4_RNv9c&t=5s) |
+
 # OVERALL STATS ON PODCAST (SINCE YEAR 2022):-
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
@@ -135,7 +141,6 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 03.07.2024 | The Cloud Show with Magnus Martensson (Talk Show) | Sweden (Malmo) | [Decentralized Devops](https://www.youtube.com/watch?v=IuiC4_RNv9c&t=5s) |
 | 11.05.2024 | Azure Bootcamp 2023 | Switzerland (Bern) | [Ask the Experts](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
 | 11.05.2024 | Azure Bootcamp 2023 | Switzerland (Bern) | [Model Platform](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
 | 01.05.2024 | Cloud Lunch and Learn | Ireland | [Hashi Packer](https://www.youtube.com/watch?v=67pfa4gyBlk&t=1834s)
