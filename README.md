@@ -22,7 +22,7 @@ I am a Microsoft MVP (Most Valuable Professional) in Developer Technologies | Az
 
 # MY MIND-MAP:-
 
-| ![image](https://github.com/user-attachments/assets/54a5f34a-274f-4886-93ae-be5b6d12f28e) |
+| ![image](https://github.com/user-attachments/assets/62d3ea36-dfcd-4763-be2d-2d40a85f7e82) |
 | ----------- |
 
 # AWARDS:-
