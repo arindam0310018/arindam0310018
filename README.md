@@ -5,7 +5,7 @@ Hello All, my name is __ARINDAM MITRA__ 👋
 | <img src="Images/AM-Profile-Pic.jpg" alt="MySelf Arindam Mitra"> |
 | ----------- |
 
-I am a 2 x Microsoft MVP (Most Valuable Professional) in Azure IaC & Developer Technologies | Sessionize Active Speaker 2023 | Sessionize Active Speaker of the Day 2025 | Technical Blogger | Public Speaker | Long Distance Runner | Hiker | Traveller | Citizen of the World.
+I am a 3 x Microsoft MVP (Most Valuable Professional) in Developer Technologies & Azure IaC | Sessionize Active Speaker 2023 | Sessionize Active Speaker of the Day 2025 | Technical Blogger | Public Speaker | Long Distance Runner | Hiker | Traveller | Citizen of the World.
 I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure using IaC and Devops. 
 
 ![](https://komarev.com/ghpvc/?username=arindam0310018&style=for-the-badge&color=green)
@@ -27,6 +27,10 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 | ----------- |
 
 # AWARDS:-
+
+| __Microsoft MVP 2025: Developer Technologies & Azure Infrastructure as Code__ |
+| ----------- |
+| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
 
 | __Microsoft MVP 2024: Azure Infrastructure as Code__ |
 | ----------- |
