@@ -145,7 +145,7 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 28.08.2025 |  |  | [Mission Azure Security Possible](https://github.com/arindam0310018/28-Aug-2025-Mission-Azure-Security-Possible) |
+| 28.08.2025 | Microsoft Cloud Security & Modern Workplace | Switzerland (Bern) | [Mission Azure Security Possible](https://github.com/arindam0310018/28-Aug-2025-Mission-Azure-Security-Possible) |
 | 22.08.2025 | Rauszeit | Switzerland (Lenzburg) | [Rauszeit FinOps - The Art of Not Freaking Out at Cloud Invoices](https://youtu.be/vxG9uB2u1FA) |
 | 12.08.2025 | Interview Master's Thesis By Hader Butt | Switzerland (Basel) | [Invitation to Interview Master's Thesis on Security in CI/CD Pipelines](https://youtu.be/CRSrSQmbmH8) |
 | 05.06.2025 | Azure Bootcamp 2025 | Switzerland (Bern) | [Platform Engineering with Terraform, Crossplane and Port](https://github.com/arindam0310018/05-June-2025-PlatformEngg-Tf-Crossplane-Port__Azure-Bootcamp-2025)  |
