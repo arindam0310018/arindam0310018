@@ -105,11 +105,11 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL VIRTUAL SPEAKER SESSIONS__ | __TOTAL IN-PERSON SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 70 | 13 | - | - | - | - | 
+| 70 | 13 | 41 | 31 | 10 | 20 | 
 
 | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 4 | 14 | 3 | 5 |
+| 4 | 16 | 6 | 5 |
 
 # OVERALL STATS ON BLOG SERIES (SINCE YEAR 2022):-
 
@@ -217,6 +217,8 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 | Azure DevOps Pipelines Common service connection types does not include ACR #13251 | https://github.com/MicrosoftDocs/azure-devops-docs/issues/13251 | __OPEN__ |
 | Azure Container Registry Service Connection gets Stuck in Loading Subscription or Loading Registries | https://developercommunity.visualstudio.com/t/Azure-Container-Registry-Service-Connect/10340185 | __IN PROGRESS__ |
 | App Service VNet Integrated Subnet cannot be deleted because Service Association Link still exists #116634 | https://github.com/MicrosoftDocs/azure-docs/issues/116634 | __CLOSED__ |
+| Additional Information on WinGet Installation #64 | https://github.com/asheroto/winget-install/issues/64 | __CLOSED__ |
+| Winget Installs Terraform Version 1.4.4 and not the Latest. #259029 | https://github.com/microsoft/winget-pkgs/issues/259029 | __OPEN__ |
 
 # OVERALL STATS ON CONTRIBUTION TO ISSUES (SINCE YEAR 2022):-
 
@@ -225,6 +227,9 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 | Invalid value was provided for Key Vault 'accessPolicies' | https://github.com/Azure/azure-cli/issues/9763 | __CLOSED__ |
 | Please provide the JSON examples for --service-endpoint-configuration | https://github.com/Azure/azure-cli-extensions/issues/1495 | __CLOSED__ |
 | Create service endpoint connections to Docker registry & ACR | https://github.com/Azure/azure-devops-cli-extension/issues/706 | __CLOSED__ |
+| Unknown error: unknown shorthand flag: 'l' in -l #544 | https://github.com/Azure/kubelogin/issues/544 | __CLOSED__ |
+| error: unknown shorthand flag: 'l' in -l #139 | https://github.com/Azure/kubelogin/issues/139 | __CLOSED__ |
+| Unable to connect AAD enabled AKS Cluster ... KubeLogin Not found ... But Kubelogin is installed #7956 | https://github.com/lensapp/lens/issues/7956 |  __OPEN__ | 
 
 # OVERALL STATS ON PRODUCT FEEDBACK (SINCE YEAR 2022):-
 
