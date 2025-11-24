@@ -103,9 +103,9 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 # OVERALL STATS ON MICROSOFT (SINCE YEAR 2022):-
 
-| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 69 | 13 | 38 | 13 | 
+| __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL VIRTUAL SPEAKER SESSIONS__ | __TOTAL IN-PERSON SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 70 | 13 | - | - | - | - | 
 
 | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -145,13 +145,22 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
-| 11.05.2024 | Azure Bootcamp 2023 | Switzerland (Bern) | [Ask the Experts](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
-| 11.05.2024 | Azure Bootcamp 2023 | Switzerland (Bern) | [Model Platform](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
+| 28.08.2025 |  |  | [Mission Azure Security Possible](https://github.com/arindam0310018/28-Aug-2025-Mission-Azure-Security-Possible) |
+| 22.08.2025 | Rauszeit | Switzerland (Lenzburg) | [Rauszeit FinOps - The Art of Not Freaking Out at Cloud Invoices](https://youtu.be/vxG9uB2u1FA) |
+| 12.08.2025 | Interview Master's Thesis By Hader Butt | Switzerland (Basel) | [Invitation to Interview Master's Thesis on Security in CI/CD Pipelines](https://youtu.be/CRSrSQmbmH8) |
+| 05.06.2025 | Azure Bootcamp 2025 | Switzerland (Bern) | [Platform Engineering with Terraform, Crossplane and Port](https://github.com/arindam0310018/05-June-2025-PlatformEngg-Tf-Crossplane-Port__Azure-Bootcamp-2025)  |
+| 08.05.2025 | Microsoft Azure Zurich User Group (Global Azure 2024) | Switzerland (Zurich) | [Crossplane powered Platform Engineering](https://www.youtube.com/watch?v=gjPY2RqUjzA) |
+| 27.02.2025 | Microsoft Azure Bern User Group | Switzerland (Bern) | [Azure Databricks - Insights from a Platform Engineer](https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer) |
+| 30.01.2025 | .NET User Group Zurich | Switzerland (Zurich) | [CDK For Terraform](https://www.youtube.com/live/Q7og6rYbeC8) |
+| 29.12.2024 | Festive Tech Calendar 2024 | United Kingdom (UK) | [Diagram As Code](https://www.youtube.com/watch?v=VIiR66MW1Mk) |
+| 30.09.2024 | Microsoft Azure Zurich User Group | Switzerland (Zurich) | [Azure Databricks - Insights from a Platform Engineer](https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer) |
+| 11.05.2024 | Azure Bootcamp 2024 | Switzerland (Bern) | [Ask the Experts](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
+| 11.05.2024 | Azure Bootcamp 2024 | Switzerland (Bern) | [Model Platform](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024) |
 | 01.05.2024 | Cloud Lunch and Learn | Ireland | [Hashi Packer](https://www.youtube.com/watch?v=67pfa4gyBlk&t=1834s)
 | 18.04.2024 | Microsoft Azure Zurich User Group (Global Azure 2024) | Switzerland (Zurich) | [CDK for Terraform](https://www.youtube.com/watch?v=ePFFTBN_Fis&t=1319s) |
-| 14.03.2024 | 90 Days of Devops | Public Speaking (Virtual) | [Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY&t=920s) |
-| 07.03.2024 | Azure Spring Clean 2024 | Public Speaking (Virtual) | [Terraform Cloud - Zero to Hero](https://www.azurespringclean.com/) |
-| 18.12.2023 | Festive Tech Calendar 2023 | Public Speaking (Virtual) | [Decentralized Devops](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
+| 14.03.2024 | 90 Days of Devops | United Kingdom (UK) | [Workload Identity Federation with Azure DevOps and Terraform](https://www.youtube.com/watch?v=14Y4ccfHshY&t=920s) |
+| 07.03.2024 | Azure Spring Clean 2024 | Ireland | [Terraform Cloud - Zero to Hero](https://www.azurespringclean.com/) |
+| 18.12.2023 | Festive Tech Calendar 2023 | United Kingdom (UK) | [Decentralized Devops](https://www.youtube.com/watch?v=09EUfA9LH3s&t=78s) |
 | 28.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Container Apps - Zero to Hero](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45197) |
 | 25.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45194) |
 | 14.09.2023 | Azure Back To School - 2023 | USA (Detroit and South Carolina) | [Automate App Management with AAD Graph and Devops](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2023-session-schedule/#sz-tab-45183) |
