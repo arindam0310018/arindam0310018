@@ -85,12 +85,12 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
     <img src="https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=mail&logoColor=red"/>
   </a>
 
-
+<!--
 # GITHUB STATS:-
 
 [![Arindam Mitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindam0310018&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 [![Arindam Mitra`s GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
 
 [![Arindam Mitra`s GitHub Streak](https://streak-stats.demolab.com/?user=arindam0310018&theme=dark)](https://git.io/streak-stats)
@@ -105,7 +105,7 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __TOTAL PUBLISHED BLOGS__ | __TOTAL PUBLISHED BLOG SERIES__ | __TOTAL SPEAKER SESSIONS__ | __TOTAL VIRTUAL SPEAKER SESSIONS__ | __TOTAL IN-PERSON SPEAKER SESSIONS__ | __TOTAL AZ COMMUNITIES SUPPORTED__ |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 70 | 13 | 41 | 31 | 10 | 20 | 
+| 70 | 13 | 42 | 32 | 10 | 20 | 
 
 | __TOTAL PULL REQUEST__ | __TOTAL ISSUES RAISED__ | __TOTAL CONTRIBUTION TO ISSUES__ | __TOTAL PRODUCT FEEDBACK__ |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -145,6 +145,7 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 | __DATE__ | __NAME OF AZ COMMUNITIES__ | __LOCATION__ | __SPEAKER TOPIC__ |
 | ----------- | ----------- | ----------- | ----------- |
+| 09.12.2025 | Festive Tech Calendar 2025 | United Kingdom (UK) | [Crossplane Powered Platform Engineering](https://youtu.be/9DMBOyswyLk?si=TB166qKDNUPxF1Aq) |
 | 28.08.2025 | Microsoft Cloud Security & Modern Workplace | Switzerland (Bern) | [Mission Azure Security Possible](https://github.com/arindam0310018/28-Aug-2025-Mission-Azure-Security-Possible) |
 | 22.08.2025 | Rauszeit | Switzerland (Lenzburg) | [Rauszeit FinOps - The Art of Not Freaking Out at Cloud Invoices](https://youtu.be/vxG9uB2u1FA) |
 | 12.08.2025 | Interview Master's Thesis By Hader Butt | Switzerland (Basel) | [Invitation to Interview Master's Thesis on Security in CI/CD Pipelines](https://youtu.be/CRSrSQmbmH8) |
