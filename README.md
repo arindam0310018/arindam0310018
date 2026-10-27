@@ -28,6 +28,10 @@ I Focuss on Cloud Adoption, Architecture, Automation, Build and Run in Azure usi
 
 # AWARDS:-
 
+| __Microsoft MVP 2026: Devops__ |
+| ----------- |
+| ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
+
 | __Microsoft MVP 2025: Developer Technologies & Azure Infrastructure as Code__ |
 | ----------- |
 | ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/29681063/230733349-c04e66c0-419c-4b82-9dae-fc79a7338637.jpg) |
